@@ -1,0 +1,853 @@
+ticker,company_name,gics_sector,country
+A,AGILENT TECHNOLOGIES INC,Health Care,United States
+AAL,ANGLO AMERICAN PLC,Materials,United Kingdom
+AAPL,APPLE INC,Information Technology,United States
+ABBV,ABBVIE INC,Health Care,United States
+ABNB,AIRBNB INC CLASS A,Consumer Discretionary,United States
+ABT,ABBOTT LABORATORIES,Health Care,United States
+ABX,BARRICK MINING CORP,Materials,Canada
+ACA,CREDIT AGRICOLE SA,Financials,France
+ACGL,ARCH CAPITAL GROUP LTD,Financials,United States
+ACN,ACCENTURE PLC CLASS A,Information Technology,United States
+AD,KONINKLIJKE AHOLD DELHAIZE NV,Consumer Staples,Netherlands
+ADBE,ADOBE INC,Information Technology,United States
+ADI,ANALOG DEVICES INC,Information Technology,United States
+ADM,ARCHER DANIELS MIDLAND,Consumer Staples,United States
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,United States
+ADS,ADIDAS N AG,Consumer Discretionary,Germany
+ADSK,AUTODESK INC,Information Technology,United States
+AEE,AMEREN CORP,Utilities,United States
+AEM,AGNICO EAGLE MINES LTD,Materials,Canada
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,United States
+AER,AERCAP HOLDINGS NV,Industrials,Netherlands
+AFL,AFLAC INC,Financials,United States
+AFRM,AFFIRM HOLDINGS INC CLASS A,Financials,United States
+AGI,ALAMOS GOLD INC CLASS A,Materials,Canada
+AGS,AGEAS SA,Financials,Belgium
+AI,LAIR LIQUIDE SOCIETE ANONYME POUR,Materials,France
+AIG,AMERICAN INTERNATIONAL GROUP INC,Financials,United States
+AIR,AIRBUS GROUP,Industrials,France
+AJG,ARTHUR J GALLAGHER,Financials,United States
+ALAB,ASTERA LABS INC,Information Technology,United States
+ALC,ALCON AG,Health Care,Switzerland
+ALL,ALLSTATE CORP,Financials,United States
+ALLE,ALLEGION PLC,Industrials,United States
+ALNY,ALNYLAM PHARMACEUTICALS INC,Health Care,United States
+ALV,ALLIANZ,Financials,Germany
+AM,DASSAULT AVIATION SA,Industrials,France
+AMAT,APPLIED MATERIAL INC,Information Technology,United States
+AMCR,AMCOR PLC,Materials,United States
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,United States
+AME,AMETEK INC,Industrials,United States
+AMGN,AMGEN INC,Health Care,United States
+AMP,AMERIPRISE FINANCE INC,Financials,United States
+AMRZ,AMRIZE AG,Materials,United States
+AMS,AMADEUS IT GROUP SA,Consumer Discretionary,Spain
+AMT,AMERICAN TOWER REIT CORP,Real Estate,United States
+AMZN,AMAZON.COM INC,Consumer Discretionary,United States
+ANET,ARISTA NETWORKS INC,Information Technology,United States
+AON,AON PLC CLASS A,Financials,United States
+APA,APA GROUP UNITS,Utilities,Australia
+APD,AIR PRODUCTS AND CHEMICALS INC,Materials,United States
+APH,AMPHENOL CORP CLASS A,Information Technology,United States
+APO,APOLLO GLOBAL MANAGEMENT INC,Financials,United States
+APP,APPLOVIN CORP CLASS A,Information Technology,United States
+APTV,APTIV PLC,Consumer Discretionary,United States
+ARES,ARES MANAGEMENT CORP CLASS A,Financials,United States
+ARGX,ARGENX,Health Care,Belgium
+ARX,ARC RESOURCES LTD,Energy,Canada
+ASM,ASM INTERNATIONAL NV,Information Technology,Netherlands
+ASML,ASML HOLDING NV,Information Technology,Netherlands
+ASTS,AST SPACEMOBILE INC CLASS A,Communication,United States
+ASX,ASX LTD,Financials,Australia
+ATO,ATMOS ENERGY CORP,Utilities,United States
+AVB,AVALONBAY COMMUNITIES REIT INC,Real Estate,United States
+AVGO,BROADCOM INC,Information Technology,United States
+AVY,AVERY DENNISON CORP,Materials,United States
+AWK,AMERICAN WATER WORKS INC,Utilities,United States
+AXON,AXON ENTERPRISE INC,Industrials,United States
+AXP,AMERICAN EXPRESS,Financials,United States
+AZN,ASTRAZENECA PLC,Health Care,United Kingdom
+AZO,AUTOZONE INC,Consumer Discretionary,United States
+BA,BOEING,Industrials,United States
+BAC,BANK OF AMERICA CORP,Financials,United States
+BAER,JULIUS BAER GRUPPE AG,Financials,Switzerland
+BALL,BALL CORP,Materials,United States
+BAM,BROOKFIELD ASSET MANAGEMENT VOTING,Financials,Canada
+BBVA,BANCO BILBAO VIZCAYA ARGENTARIA SA,Financials,Spain
+BBY,BEST BUY INC,Consumer Discretionary,United States
+BCE,BCE INC,Communication,Canada
+BDX,BECTON DICKINSON,Health Care,United States
+BE,BLOOM ENERGY CLASS A CORP,Industrials,United States
+BEPC,BROOKFIELD RENEWABLE SUBORDINATE V,Utilities,Canada
+BG,BUNGE GLOBAL SA,Consumer Staples,United States
+BHP,BHP GROUP LTD,Materials,Australia
+BIIB,BIOGEN INC,Health Care,United States
+BKNG,BOOKING HOLDINGS INC,Consumer Discretionary,United States
+BKR,BAKER HUGHES CLASS A,Energy,United States
+BLK,BLACKROCK INC,Financials,United States
+BMO,BANK OF MONTREAL,Financials,Canada
+BMY,BRISTOL MYERS SQUIBB,Health Care,United States
+BNR,BRENNTAG,Industrials,Germany
+BNS,BANK OF NOVA SCOTIA,Financials,Canada
+BNY,BANK OF NEW YORK MELLON CORP,Financials,United States
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,United States
+BRO,BROWN & BROWN INC,Financials,United States
+BSX,BOSTON SCIENTIFIC CORP,Health Care,United States
+BURL,BURLINGTON STORES INC,Consumer Discretionary,United States
+BX,BLACKSTONE INC,Financials,United States
+C,CITIGROUP INC,Financials,United States
+CAE,CAE INC,Industrials,Canada
+CAH,CARDINAL HEALTH INC,Health Care,United States
+CAR,CAR GROUP LTD,Communication,Australia
+CARR,CARRIER GLOBAL CORP,Industrials,United States
+CASY,CASEYS GENERAL STORES INC,Consumer Staples,United States
+CAT,CATERPILLAR INC,Industrials,United States
+CB,CHUBB,Financials,United States
+CBOE,CBOE GLOBAL MARKETS INC,Financials,United States
+CBRE,CBRE GROUP INC CLASS A,Real Estate,United States
+CCEP,COCA COLA EUROPACIFIC PARTNERS PLC,Consumer Staples,Netherlands
+CCI,CROWN CASTLE INC,Real Estate,United States
+CCL,CARNIVAL CORP LTD,Consumer Discretionary,United States
+CCO,CAMECO CORP,Energy,Canada
+CDE,COEUR MINING INC,Materials,United States
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,United States
+CDW,CDW CORP,Information Technology,United States
+CEG,CONSTELLATION ENERGY CORP,Utilities,United States
+CEN,CONTACT ENERGY LTD,Utilities,New Zealand
+CF,CF INDUSTRIES HOLDINGS INC,Materials,United States
+CFG,CITIZENS FINANCIAL GROUP INC,Financials,United States
+CFR,COMPAGNIE FINANCIERE RICHEMONT SA,Consumer Discretionary,Switzerland
+CG,CARLYLE GROUP INC,Financials,United States
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,United States
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES,Information Technology,Israel
+CHRW,CH ROBINSON WORLDWIDE INC,Industrials,United States
+CHTR,CHARTER COMMUNICATIONS INC CLASS A,Communication,United States
+CI,CIGNA,Health Care,United States
+CIEN,CIENA CORP,Information Technology,United States
+CINF,CINCINNATI FINANCIAL CORP,Financials,United States
+CL,COLGATE-PALMOLIVE,Consumer Staples,United States
+CLAR,CAPITALAND ASCENDAS REIT,Real Estate,Singapore
+CLS,CELESTICA INC,Information Technology,Canada
+CLX,CLOROX,Consumer Staples,United States
+CM,CANADIAN IMPERIAL BANK OF COMMERCE,Financials,Canada
+CMCSA,COMCAST CORP CLASS A,Communication,United States
+CME,CME GROUP INC CLASS A,Financials,United States
+CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,United States
+CMI,CUMMINS INC,Industrials,United States
+CMS,CMS ENERGY CORP,Utilities,United States
+CNA,CENTRICA PLC,Utilities,United Kingdom
+CNC,CENTENE CORP,Health Care,United States
+CNH,CNH INDUSTRIAL N.V. NV,Industrials,United States
+CNP,CENTERPOINT ENERGY INC,Utilities,United States
+CNQ,CANADIAN NATURAL RESOURCES LTD,Energy,Canada
+CNR,CANADIAN NATIONAL RAILWAY,Industrials,Canada
+COF,CAPITAL ONE FINANCIAL CORP,Financials,United States
+COHR,COHERENT CORP,Information Technology,United States
+COIN,COINBASE GLOBAL INC CLASS A,Financials,United States
+CON,CONTINENTAL AG,Consumer Discretionary,Germany
+COO,COOPER INC,Health Care,United States
+COP,CONOCOPHILLIPS,Energy,United States
+COR,CENCORA INC,Health Care,United States
+COST,COSTCO WHOLESALE CORP,Consumer Staples,United States
+CP,CANADIAN PACIFIC KANSAS CITY LTD,Industrials,Canada
+CPAY,CORPAY INC,Financials,United States
+CPG,COMPASS GROUP PLC,Consumer Discretionary,United Kingdom
+CPRT,COPART INC,Industrials,United States
+CRBG,COREBRIDGE FINANCIAL INC,Financials,United States
+CRCL,CIRCLE INTERNET GROUP INC CLASS A,Information Technology,United States
+CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,Information Technology,United States
+CRH,CRH PUBLIC LIMITED PLC,Materials,United States
+CRM,SALESFORCE INC,Information Technology,United States
+CRWD,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,United States
+CRWV,COREWEAVE INC CLASS A,Information Technology,United States
+CS,AXA SA,Financials,France
+CSCO,CISCO SYSTEMS INC,Information Technology,United States
+CSGP,COSTAR GROUP INC,Real Estate,United States
+CSL,CARLISLE COMPANIES INC,Industrials,United States
+CSU,CONSTELLATION SOFTWARE INC,Information Technology,Canada
+CSX,CSX CORP,Industrials,United States
+CTAS,CINTAS CORP,Industrials,United States
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,United States
+CTVA,CORTEVA INC,Materials,United States
+CVE,CENOVUS ENERGY,Energy,Canada
+CVNA,CARVANA CLASS A,Consumer Discretionary,United States
+CVS,CVS HEALTH CORP,Health Care,United States
+CVX,CHEVRON CORP,Energy,United States
+CW,CURTISS WRIGHT CORP,Industrials,United States
+D,DOMINION ENERGY INC,Utilities,United States
+DAL,DELTA AIR LINES INC,Industrials,United States
+DASH,DOORDASH INC CLASS A,Consumer Discretionary,United States
+DD,DUPONT DE NEMOURS INC,Materials,United States
+DDOG,DATADOG INC CLASS A,Information Technology,United States
+DE,DEERE,Industrials,United States
+DECK,DECKERS OUTDOOR CORP,Consumer Discretionary,United States
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,United States
+DG,DOLLAR GENERAL CORP,Consumer Staples,United States
+DGX,QUEST DIAGNOSTICS INC,Health Care,United States
+DHI,D R HORTON INC,Consumer Discretionary,United States
+DHR,DANAHER CORP,Health Care,United States
+DIS,WALT DISNEY,Communication,United States
+DKS,DICKS SPORTING INC,Consumer Discretionary,United States
+DLR,DIGITAL REALTY TRUST REIT INC,Real Estate,United States
+DLTR,DOLLAR TREE INC,Consumer Staples,United States
+DNB,DNB BANK,Financials,Norway
+DOV,DOVER CORP,Industrials,United States
+DOW,DOW INC,Materials,United States
+DPZ,DOMINOS PIZZA INC,Consumer Discretionary,United States
+DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,United States
+DTE,DTE ENERGY,Utilities,United States
+DUK,DUKE ENERGY CORP,Utilities,United States
+DVN,DEVON ENERGY CORP,Energy,United States
+DXCM,DEXCOM INC,Health Care,United States
+EA,ELECTRONIC ARTS INC,Communication,United States
+EBAY,EBAY INC,Consumer Discretionary,United States
+EBS,ERSTE GROUP BANK AG,Financials,Austria
+ECHO,ECHOSTAR CORP CLASS A,Communication,United States
+ECL,ECOLAB INC,Materials,United States
+EFX,EQUIFAX INC,Industrials,United States
+EG,EVEREST GROUP LTD,Financials,United States
+EIX,EDISON INTERNATIONAL,Utilities,United States
+EL,ESTEE LAUDER INC CLASS A,Consumer Staples,United States
+ELV,ELEVANCE HEALTH INC,Health Care,United States
+EMA,EMERA INC,Utilities,Canada
+EME,EMCOR GROUP INC,Industrials,United States
+EMR,EMERSON ELECTRIC,Industrials,United States
+ENB,ENBRIDGE INC,Energy,Canada
+ENLT,ENLIGHT RENEWABLE ENERGY LTD,Utilities,Israel
+ENR,SIEMENS ENERGY N AG,Industrials,Germany
+ENTG,ENTEGRIS INC,Information Technology,United States
+EOG,EOG RESOURCES INC,Energy,United States
+EQIX,EQUINIX REIT INC,Real Estate,United States
+EQNR,EQUINOR,Energy,Norway
+EQR,EQUITY RESIDENTIAL REIT,Real Estate,United States
+EQT,EQT CORP,Energy,United States
+EQX,EQUINOX GOLD CORP,Materials,Canada
+ERF,EUROFINS SCIENTIFIC,Health Care,France
+ERIE,ERIE INDEMNITY CLASS A,Financials,United States
+ES,EVERSOURCE ENERGY,Utilities,United States
+ESLT,ELBIT SYSTEMS LTD,Industrials,Israel
+ESS,ESSEX PROPERTY TRUST REIT INC,Real Estate,United States
+ETN,EATON PLC,Industrials,United States
+ETR,ENTERGY CORP,Utilities,United States
+EVK,EVONIK INDUSTRIES AG,Materials,Germany
+EVO,EVOLUTION,Consumer Discretionary,Sweden
+EVRG,EVERGY INC,Utilities,United States
+EW,EDWARDS LIFESCIENCES CORP,Health Care,United States
+EXC,EXELON CORP,Utilities,United States
+EXE,EXPAND ENERGY CORP,Energy,United States
+EXPE,EXPEDIA GROUP INC,Consumer Discretionary,United States
+EXR,EXTRA SPACE STORAGE REIT INC,Real Estate,United States
+F,FORD MOTOR CO,Consumer Discretionary,United States
+FANG,DIAMONDBACK ENERGY INC,Energy,United States
+FAST,FASTENAL,Industrials,United States
+FBK,FINECOBANK BANCA FINECO,Financials,Italy
+FCNCA,FIRST CITIZENS BANCSHARES INC CLAS,Financials,United States
+FCX,FREEPORT MCMORAN INC,Materials,United States
+FDX,FEDEX CORP,Industrials,United States
+FE,FIRSTENERGY CORP,Utilities,United States
+FER,FERROVIAL NV,Industrials,Spain
+FERG,FERGUSON ENTERPRISES INC,Industrials,United States
+FFIV,F5 INC,Information Technology,United States
+FICO,FAIR ISAAC CORP,Information Technology,United States
+FIS,FIDELITY NATIONAL INFORMATION SERV,Financials,United States
+FISV,FISERV INC,Financials,United States
+FITB,FIFTH THIRD BANCORP,Financials,United States
+FIX,COMFORT SYSTEMS USA INC,Industrials,United States
+FLEX,FLEX LTD,Information Technology,United States
+FLUT,FLUTTER ENTERTAINMENT PLC,Consumer Discretionary,United States
+FN,FABRINET,Information Technology,United States
+FNF,FIDELITY NATIONAL FINANCIAL INC,Financials,United States
+FNV,FRANCO NEVADA CORP,Materials,Canada
+FOX,FOX CORP CLASS B,Communication,United States
+FOXA,FOX CORP CLASS A,Communication,United States
+FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Health Care,New Zealand
+FSLR,FIRST SOLAR INC,Information Technology,United States
+FSV,FIRSTSERVICE SUBORDINATE VOTING CO,Real Estate,Canada
+FTAI,FTAI AVIATION LTD,Industrials,United States
+FTI,TECHNIPFMC PLC,Energy,United States
+FTNT,FORTINET INC,Information Technology,United States
+FTS,FORTIS INC,Utilities,Canada
+FTV,FORTIVE CORP,Industrials,United States
+FUTU,FUTU HOLDINGS ADR LTD,Financials,Hong Kong
+FWONK,LIBERTY MEDIA FORMULA ONE SERIES C,Communication,United States
+G,ASSICURAZIONI GENERALI,Financials,Italy
+GD,GENERAL DYNAMICS CORP,Industrials,United States
+GE,GE AEROSPACE,Industrials,United States
+GEHC,GE HEALTHCARE TECHNOLOGIES INC,Health Care,United States
+GEN,GEN DIGITAL INC,Information Technology,United States
+GEV,GE VERNOVA INC,Industrials,United States
+GFL,GFL ENVIRONMENTAL SUBORDINATE VOTI,Industrials,Canada
+GGG,GRACO INC,Industrials,United States
+GIL,GILDAN ACTIVEWEAR INC,Consumer Discretionary,Canada
+GILD,GILEAD SCIENCES INC,Health Care,United States
+GIS,GENERAL MILLS INC,Consumer Staples,United States
+GLPI,GAMING AND LEISURE PROPERTIES REIT,Real Estate,United States
+GLW,CORNING INC,Information Technology,United States
+GM,GENERAL MOTORS,Consumer Discretionary,United States
+GMAB,GENMAB,Health Care,Denmark
+GOOG,ALPHABET INC CLASS C,Communication,United States
+GOOGL,ALPHABET INC CLASS A,Communication,United States
+GPC,GENUINE PARTS,Consumer Discretionary,United States
+GPN,GLOBAL PAYMENTS INC,Financials,United States
+GRAB,GRAB HOLDINGS LTD CLASS A,Industrials,Singapore
+GRMN,GARMIN LTD,Consumer Discretionary,United States
+GS,GOLDMAN SACHS GROUP INC,Financials,United States
+GSK,GLAXOSMITHKLINE,Health Care,United Kingdom
+GWW,WW GRAINGER INC,Industrials,United States
+H,HYATT HOTELS CORP CLASS A,Consumer Discretionary,United States
+HAL,HALLIBURTON,Energy,United States
+HBAN,HUNTINGTON BANCSHARES INC,Financials,United States
+HCA,HCA HEALTHCARE INC,Health Care,United States
+HD,HOME DEPOT INC,Consumer Discretionary,United States
+HEI,HEICO CORP,Industrials,United States
+HIG,HARTFORD INSURANCE GROUP INC,Financials,United States
+HLN,HALEON PLC,Health Care,United Kingdom
+HLT,HILTON WORLDWIDE HOLDINGS INC,Consumer Discretionary,United States
+HOLX,HOLOGIC INC,Health Care,United States
+HON,HONEYWELL INTERNATIONAL INC,Industrials,United States
+HOOD,ROBINHOOD MARKETS INC CLASS A,Financials,United States
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,United States
+HPQ,HP INC,Information Technology,United States
+HSY,HERSHEY FOODS,Consumer Staples,United States
+HUBB,HUBBELL INC,Industrials,United States
+HUM,HUMANA INC,Health Care,United States
+HWM,HOWMET AEROSPACE INC,Industrials,United States
+IBKR,INTERACTIVE BROKERS GROUP INC CLAS,Financials,United States
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Information Technology,United States
+ICE,INTERCONTINENTAL EXCHANGE INC,Financials,United States
+ICL,ICL GROUP LTD,Materials,Israel
+IDXX,IDEXX LABORATORIES INC,Health Care,United States
+IEX,IDEX CORP,Industrials,United States
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES,Materials,United States
+IHG,INTERCONTINENTAL HOTELS GROUP PLC,Consumer Discretionary,United Kingdom
+III,3I GROUP PLC,Financials,United Kingdom
+ILMN,ILLUMINA INC,Health Care,United States
+IMO,IMPERIAL OIL LTD,Energy,Canada
+INCY,INCYTE CORP,Health Care,United States
+INDT,INDUTRADE,Industrials,Sweden
+INSM,INSMED INC,Health Care,United States
+INTC,INTEL CORPORATION,Information Technology,United States
+INTU,INTUIT INC,Information Technology,United States
+INVH,INVITATION HOMES INC,Real Estate,United States
+IONQ,IONQ INC,Information Technology,United States
+IOT,SAMSARA INC CLASS A,Information Technology,United States
+IP,INTERNATIONAL PAPER,Materials,United States
+IQV,IQVIA HOLDINGS INC,Health Care,United States
+IR,INGERSOLL RAND INC,Industrials,United States
+IREN,IREN LTD,Information Technology,United States
+IRM,IRON MOUNTAIN INC,Real Estate,United States
+ISRG,INTUITIVE SURGICAL INC,Health Care,United States
+ITW,ILLINOIS TOOL INC,Industrials,United States
+J,JACOBS SOLUTIONS INC,Industrials,United States
+JBHT,JB HUNT TRANSPORT SERVICES INC,Industrials,United States
+JBL,JABIL INC,Information Technology,United States
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,United States
+JNJ,JOHNSON & JOHNSON,Health Care,United States
+JPM,JPMORGAN CHASE & CO,Financials,United States
+K,KINROSS GOLD CORP,Materials,Canada
+KDP,KEURIG DR PEPPER INC,Consumer Staples,United States
+KEY,KEYCORP,Financials,United States
+KEYS,KEYSIGHT TECHNOLOGIES INC,Information Technology,United States
+KHC,KRAFT HEINZ,Consumer Staples,United States
+KIM,KIMCO REALTY REIT CORP,Real Estate,United States
+KKR,KKR AND CO INC,Financials,United States
+KLAC,KLA CORP,Information Technology,United States
+KMB,KIMBERLY CLARK CORP,Consumer Staples,United States
+KMI,KINDER MORGAN INC,Energy,United States
+KO,COCA-COLA,Consumer Staples,United States
+KR,KROGER,Consumer Staples,United States
+KVUE,KENVUE INC,Consumer Staples,United States
+L,LOEWS CORP,Financials,United States
+LAND,LAND SECURITIES GROUP REIT PLC,Real Estate,United Kingdom
+LDOS,LEIDOS HOLDINGS INC,Industrials,United States
+LEN,LENNAR A CORP CLASS A,Consumer Discretionary,United States
+LH,LABCORP HOLDINGS INC,Health Care,United States
+LHX,L3HARRIS TECHNOLOGIES INC,Industrials,United States
+LI,KLEPIERRE REIT SA,Real Estate,France
+LII,LENNOX INTERNATIONAL INC,Industrials,United States
+LIN,LINDE PLC,Materials,United States
+LITE,LUMENTUM HOLDINGS INC,Information Technology,United States
+LLY,ELI LILLY,Health Care,United States
+LMT,LOCKHEED MARTIN CORP,Industrials,United States
+LNG,CHENIERE ENERGY INC,Energy,United States
+LNT,ALLIANT ENERGY CORP,Utilities,United States
+LOW,LOWES COMPANIES INC,Consumer Discretionary,United States
+LPLA,LPL FINANCIAL HOLDINGS INC,Financials,United States
+LRCX,LAM RESEARCH CORP,Information Technology,United States
+LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,United States
+LVS,LAS VEGAS SANDS CORP,Consumer Discretionary,United States
+LYB,LYONDELLBASELL INDUSTRIES CLASS A,Materials,United States
+LYV,LIVE NATION ENTERTAINMENT INC,Communication,United States
+MA,MASTERCARD INC CLASS A,Financials,United States
+MAA,MID AMERICA APARTMENT COMMUNITIES,Real Estate,United States
+MAR,MARRIOTT INTERNATIONAL INC CLASS A,Consumer Discretionary,United States
+MAS,MASCO CORP,Industrials,United States
+MC,LVMH,Consumer Discretionary,France
+MCD,MCDONALDS CORP,Consumer Discretionary,United States
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,United States
+MCK,MCKESSON CORP,Health Care,United States
+MCO,MOODYS CORP,Financials,United States
+MDB,MONGODB INC CLASS A,Information Technology,United States
+MDLZ,MONDELEZ INTERNATIONAL INC CLASS A,Consumer Staples,United States
+MDT,MEDTRONIC PLC,Health Care,United States
+MELI,MERCADOLIBRE INC,Consumer Discretionary,United States
+MET,METLIFE INC,Financials,United States
+META,META PLATFORMS INC CLASS A,Communication,United States
+MFC,MANULIFE FINANCIAL CORP,Financials,Canada
+MG,MAGNA INTERNATIONAL INC,Consumer Discretionary,Canada
+MICC,MAGNUM ICE CREAM NV,Consumer Staples,Netherlands
+MKC,MCCORMICK & CO NON-VOTING INC,Consumer Staples,United States
+MKL,MARKEL GROUP INC,Financials,United States
+ML,MICHELIN,Consumer Discretionary,France
+MLM,MARTIN MARIETTA MATERIALS INC,Materials,United States
+MMM,3M,Industrials,United States
+MNST,MONSTER BEVERAGE CORP,Consumer Staples,United States
+MO,ALTRIA GROUP INC,Consumer Staples,United States
+MPC,MARATHON PETROLEUM CORP,Energy,United States
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,United States
+MRK,MERCK & CO INC,Health Care,United States
+MRO,MELROSE INDUSTRIES PLC,Industrials,United Kingdom
+MRSH,MARSH INC,Financials,United States
+MRVL,MARVELL TECHNOLOGY INC,Information Technology,United States
+MS,MORGAN STANLEY,Financials,United States
+MSCI,MSCI INC,Financials,United States
+MSFT,MICROSOFT CORP,Information Technology,United States
+MSI,MOTOROLA SOLUTIONS INC,Information Technology,United States
+MSTR,STRATEGY INC CLASS A,Information Technology,United States
+MT,ARCELORMITTAL SA,Materials,France
+MTB,M&T BANK CORP,Financials,United States
+MTD,METTLER TOLEDO INC,Health Care,United States
+MTX,MTU AERO ENGINES HOLDING AG,Industrials,Germany
+MTZ,MASTEC INC,Industrials,United States
+MU,MICRON TECHNOLOGY INC,Information Technology,United States
+NBIS,NEBIUS NV CLASS A,Information Technology,Netherlands
+NBIX,NEUROCRINE BIOSCIENCES INC,Health Care,United States
+NDAQ,NASDAQ INC,Financials,United States
+NDSN,NORDSON CORP,Industrials,United States
+NEE,NEXTERA ENERGY INC,Utilities,United States
+NEM,NEWMONT,Materials,United States
+NET,CLOUDFLARE INC CLASS A,Information Technology,United States
+NFLX,NETFLIX INC,Communication,United States
+NI,NISOURCE INC,Utilities,United States
+NKE,NIKE INC CLASS B,Consumer Discretionary,United States
+NLY,ANNALY CAPITAL MANAGEMENT REIT INC,Financials,United States
+NN,NN GROUP NV,Financials,Netherlands
+NOC,NORTHROP GRUMMAN CORP,Industrials,United States
+NOVN,NOVARTIS AG,Health Care,Switzerland
+NOW,SERVICENOW INC,Information Technology,United States
+NRG,NRG ENERGY INC,Utilities,United States
+NSC,NORFOLK SOUTHERN CORP,Industrials,United States
+NTAP,NETAPP INC,Information Technology,United States
+NTR,NUTRIEN LTD,Materials,Canada
+NTRA,NATERA INC,Health Care,United States
+NTRS,NORTHERN TRUST CORP,Financials,United States
+NUE,NUCOR CORP,Materials,United States
+NVDA,NVIDIA CORP,Information Technology,United States
+NVMI,NOVA LTD,Information Technology,Israel
+NWG,NATWEST GROUP PLC,Financials,United Kingdom
+NWSA,NEWS CORP CLASS A,Communication,United States
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,United States
+NXT,NEXT PLC,Consumer Discretionary,United Kingdom
+O,REALTY INCOME REIT CORP,Real Estate,United States
+ODFL,OLD DOMINION FREIGHT LINE INC,Industrials,United States
+OKE,ONEOK INC,Energy,United States
+OKTA,OKTA INC CLASS A,Information Technology,United States
+OMC,OMNICOM GROUP INC,Communication,United States
+ON,ON SEMICONDUCTOR CORP,Information Technology,United States
+OR,LOREAL SA,Consumer Staples,France
+ORA,ORANGE SA,Communication,France
+ORCL,ORACLE CORP,Information Technology,United States
+ORLY,OREILLY AUTOMOTIVE INC,Consumer Discretionary,United States
+OTIS,OTIS WORLDWIDE CORP,Industrials,United States
+OXY,OCCIDENTAL PETROLEUM CORP,Energy,United States
+P,EVERPURE INC CLASS A,Information Technology,United States
+PAAS,PAN AMERICAN SILVER CORP,Materials,Canada
+PANW,PALO ALTO NETWORKS INC,Information Technology,United States
+PAYX,PAYCHEX INC,Industrials,United States
+PCAR,PACCAR INC,Industrials,United States
+PCG,PG&E CORP,Utilities,United States
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,Utilities,United States
+PEP,PEPSICO INC,Consumer Staples,United States
+PFE,PFIZER INC,Health Care,United States
+PFG,PRINCIPAL FINANCIAL GROUP INC,Financials,United States
+PG,PROCTER & GAMBLE,Consumer Staples,United States
+PGR,PROGRESSIVE CORP,Financials,United States
+PH,PARKER-HANNIFIN CORP,Industrials,United States
+PHM,PULTEGROUP INC,Consumer Discretionary,United States
+PKG,PACKAGING CORP OF AMERICA,Materials,United States
+PLD,PROLOGIS REIT INC,Real Estate,United States
+PLTR,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,United States
+PM,PHILIP MORRIS INTERNATIONAL INC,Consumer Staples,United States
+PME,PRO MEDICUS LTD,Health Care,Australia
+PNC,PNC FINANCIAL SERVICES GROUP INC,Financials,United States
+PNFP,PINNACLE FINANCIAL PARTNERS INC,Financials,United States
+PNR,PENTAIR,Industrials,United States
+PODD,INSULET CORP,Health Care,United States
+PPG,PPG INDUSTRIES INC,Materials,United States
+PRU,PRUDENTIAL FINANCIAL INC,Financials,United States
+PSA,PUBLIC STORAGE REIT,Real Estate,United States
+PSX,PHILLIPS 66,Energy,United States
+PTC,PTC INC,Information Technology,United States
+PWR,QUANTA SERVICES INC,Industrials,United States
+PYPL,PAYPAL HOLDINGS INC,Financials,United States
+Q,QNITY ELECTRONICS INC,Information Technology,United States
+QCOM,QUALCOMM INC,Information Technology,United States
+QSR,RESTAURANTS BRANDS INTERNATIONAL I,Consumer Discretionary,Canada
+RACE,FERRARI NV,Consumer Discretionary,Italy
+RBA,RB GLOBAL INC,Industrials,Canada
+RBLX,ROBLOX CORP CLASS A,Communication,United States
+RCL,ROYAL CARIBBEAN GROUP LTD,Consumer Discretionary,United States
+RDDT,REDDIT INC CLASS A,Communication,United States
+REG,REGENCY CENTERS REIT CORP,Real Estate,United States
+REGN,REGENERON PHARMACEUTICALS INC,Health Care,United States
+RF,REGIONS FINANCIAL CORP,Financials,United States
+RIVN,RIVIAN AUTOMOTIVE INC CLASS A,Consumer Discretionary,United States
+RJF,RAYMOND JAMES INC,Financials,United States
+RKLB,ROCKET LAB CORP,Industrials,United States
+RKT,ROCKET COMPANIES INC CLASS A,Financials,United States
+RMD,RESMED INC,Health Care,United States
+ROK,ROCKWELL AUTOMATION INC,Industrials,United States
+ROL,ROLLINS INC,Industrials,United States
+ROP,ROPER TECHNOLOGIES INC,Information Technology,United States
+ROST,ROSS STORES INC,Consumer Discretionary,United States
+RPM,RPM INTERNATIONAL INC,Materials,United States
+RPRX,ROYALTY PHARMA PLC CLASS A,Health Care,United States
+RS,RELIANCE STEEL & ALUMINUM,Materials,United States
+RSG,REPUBLIC SERVICES INC,Industrials,United States
+RTO,RENTOKIL INITIAL PLC,Industrials,United Kingdom
+RTX,RTX CORP,Industrials,United States
+RVMD,REVOLUTION MEDICINES INC,Health Care,United States
+RY,ROYAL BANK OF CANADA,Financials,Canada
+SAF,SAFRAN SA,Industrials,France
+SALM,SALMAR,Consumer Staples,Norway
+SAND,SANDVIK,Industrials,Sweden
+SBAC,SBA COMMUNICATIONS REIT CORP CLASS,Real Estate,United States
+SBUX,STARBUCKS CORP,Consumer Discretionary,United States
+SCHN,SCHINDLER HOLDING AG,Industrials,Switzerland
+SCHW,CHARLES SCHWAB CORP,Financials,United States
+SE,SEA ADS REPRESENTING LTD CLASS A,Consumer Discretionary,Singapore
+SGH,SGH LTD,Industrials,Australia
+SHEL,SHELL PLC,Energy,United Kingdom
+SHOP,SHOPIFY SUBORDINATE VOTING INC CLA,Information Technology,Canada
+SHW,SHERWIN WILLIAMS,Materials,United States
+SIG,SIGMA HEALTHCARE LTD,Health Care,Australia
+SLB,SLB NV,Energy,United States
+SLF,SUN LIFE FINANCIAL INC,Financials,Canada
+SMCI,SUPER MICRO COMPUTER INC,Information Technology,United States
+SN,SHARKNINJA INC,Consumer Discretionary,United States
+SNA,SNAP ON INC,Industrials,United States
+SNOW,SNOWFLAKE INC,Information Technology,United States
+SNPS,SYNOPSYS INC,Information Technology,United States
+SO,SOUTHERN,Utilities,United States
+SOFI,SOFI TECHNOLOGIES INC,Financials,United States
+SOL,WASHINGTON H SOUL PATTINSON & COMP,Financials,Australia
+SPG,SIMON PROPERTY GROUP REIT INC,Real Estate,United States
+SPGI,S&P GLOBAL INC,Financials,United States
+SPOT,SPOTIFY TECHNOLOGY SA,Communication,Sweden
+SRE,SEMPRA,Utilities,United States
+SSNC,SS AND C TECHNOLOGIES HOLDINGS INC,Industrials,United States
+STE,STERIS,Health Care,United States
+STLD,STEEL DYNAMICS INC,Materials,United States
+STN,STANTEC INC,Industrials,Canada
+STT,STATE STREET CORP,Financials,United States
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,United States
+STZ,CONSTELLATION BRANDS INC CLASS A,Consumer Staples,United States
+SUI,SUN COMMUNITIES REIT INC,Real Estate,United States
+SUN,SUNCORP GROUP LTD,Financials,Australia
+SUNB,SUNBELT RENTALS HOLDINGS INC,Industrials,United Kingdom
+SW,SMURFIT WESTROCK PLC,Materials,United States
+SYF,SYNCHRONY FINANCIAL,Financials,United States
+SYK,STRYKER CORP,Health Care,United States
+SYY,SYSCO CORP,Consumer Staples,United States
+T,AT&T INC,Communication,United States
+TD,TORONTO DOMINION,Financials,Canada
+TDG,TRANSDIGM GROUP INC,Industrials,United States
+TDY,TELEDYNE TECHNOLOGIES INC,Information Technology,United States
+TEAM,ATLASSIAN CORP CLASS A,Information Technology,United States
+TEF,TELEFONICA SA,Communication,Spain
+TEL,TE CONNECTIVITY PLC,Information Technology,United States
+TEN,TENARIS SA,Energy,Italy
+TER,TERADYNE INC,Information Technology,United States
+TEVA,TEVA PHARMACEUTICAL INDUSTRIES ADR,Health Care,Israel
+TFC,TRUIST FINANCIAL CORP,Financials,United States
+TFII,TFI INTERNATIONAL INC,Industrials,Canada
+TGT,TARGET CORP,Consumer Staples,United States
+TIGO,MILLICOM INTERNATIONAL CELLULAR SA,Communication,Sweden
+TJX,TJX INC,Consumer Discretionary,United States
+TLS,TELSTRA GROUP LTD,Communication,Australia
+TLX,TALANX AG,Financials,Germany
+TMO,THERMO FISHER SCIENTIFIC INC,Health Care,United States
+TMUS,T MOBILE US INC,Communication,United States
+TOST,TOAST INC CLASS A,Financials,United States
+TPL,TEXAS PACIFIC LAND CORP,Energy,United States
+TPR,TAPESTRY INC,Consumer Discretionary,United States
+TRGP,TARGA RESOURCES CORP,Energy,United States
+TRI,THOMSON REUTERS CORP,Industrials,Canada
+TRMB,TRIMBLE INC,Information Technology,United States
+TRN,TERNA RETE ELETTRICA NAZIONALE,Utilities,Italy
+TROW,T ROWE PRICE GROUP INC,Financials,United States
+TRP,TC ENERGY CORP,Energy,Canada
+TRU,TRANSUNION,Industrials,United States
+TRV,TRAVELERS COMPANIES INC,Financials,United States
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,United States
+TSEM,TOWER SEMICONDUCTOR LTD,Information Technology,Israel
+TSLA,TESLA INC,Consumer Discretionary,United States
+TSN,TYSON FOODS INC CLASS A,Consumer Staples,United States
+TT,TRANE TECHNOLOGIES PLC,Industrials,United States
+TTE,TOTALENERGIES,Energy,France
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,Communication,United States
+TW,TRADEWEB MARKETS INC CLASS A,Financials,United States
+TWLO,TWILIO INC CLASS A,Information Technology,United States
+TXN,TEXAS INSTRUMENT INC,Information Technology,United States
+TXT,TEXTRON INC,Industrials,United States
+TYL,TYLER TECHNOLOGIES INC,Information Technology,United States
+UAL,UNITED AIRLINES HOLDINGS INC,Industrials,United States
+UBER,UBER TECHNOLOGIES INC,Industrials,United States
+UCB,UCB SA,Health Care,Belgium
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,United States
+UNH,UNITEDHEALTH GROUP INC,Health Care,United States
+UNP,UNION PACIFIC CORP,Industrials,United States
+UPS,UNITED PARCEL SERVICE INC CLASS B,Industrials,United States
+URI,UNITED RENTALS INC,Industrials,United States
+USB,US BANCORP,Financials,United States
+UTHR,UNITED THERAPEUTICS CORP,Health Care,United States
+V,VISA INC CLASS A,Financials,United States
+VEEV,VEEVA SYSTEMS INC CLASS A,Health Care,United States
+VER,VERBUND AG,Utilities,Austria
+VICI,VICI PPTYS INC,Real Estate,United States
+VLO,VALERO ENERGY CORP,Energy,United States
+VLTO,VERALTO CORP,Industrials,United States
+VMC,VULCAN MATERIALS,Materials,United States
+VOD,VODAFONE GROUP PLC,Communication,United Kingdom
+VRSK,VERISK ANALYTICS INC,Industrials,United States
+VRSN,VERISIGN INC,Information Technology,United States
+VRT,VERTIV HOLDINGS CLASS A,Industrials,United States
+VRTX,VERTEX PHARMACEUTICALS INC,Health Care,United States
+VST,VISTRA CORP,Utilities,United States
+VTR,VENTAS REIT INC,Real Estate,United States
+VZ,VERIZON COMMUNICATIONS INC,Communication,United States
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,Industrials,United States
+WAT,WATERS CORP,Health Care,United States
+WBD,WARNER BROS. DISCOVERY INC SERIES,Communication,United States
+WCN,WASTE CONNECTIONS INC,Industrials,United States
+WDAY,WORKDAY INC CLASS A,Information Technology,United States
+WDC,WESTERN DIGITAL CORP,Information Technology,United States
+WDS,WOODSIDE ENERGY GROUP LTD,Energy,Australia
+WEC,WEC ENERGY GROUP INC,Utilities,United States
+WELL,WELLTOWER INC,Real Estate,United States
+WES,WESFARMERS LTD,Consumer Discretionary,Australia
+WFC,WELLS FARGO,Financials,United States
+WM,WASTE MANAGEMENT INC,Industrials,United States
+WMB,WILLIAMS INC,Energy,United States
+WMT,WALMART INC,Consumer Staples,United States
+WOW,WOOLWORTHS GROUP LTD,Consumer Staples,Australia
+WPC,W. P. CAREY REIT INC,Real Estate,United States
+WPM,WHEATON PRECIOUS METALS CORP,Materials,Canada
+WRB,WR BERKLEY CORP,Financials,United States
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,United States
+WSO,WATSCO INC,Industrials,United States
+WST,WEST PHARMACEUTICAL SERVICES INC,Health Care,United States
+WTW,WILLIS TOWERS WATSON PLC,Financials,United States
+WY,WEYERHAEUSER REIT,Real Estate,United States
+X,TMX GROUP LTD,Financials,Canada
+XEL,XCEL ENERGY INC,Utilities,United States
+XOM,EXXONMOBIL HOLDINGS CORP,Energy,United States
+XPO,XPO INC,Industrials,United States
+XYL,XYLEM INC,Industrials,United States
+XYZ,BLOCK INC CLASS A,Financials,United States
+YUM,YUM BRANDS INC,Consumer Discretionary,United States
+ZBH,ZIMMER BIOMET HOLDINGS INC,Health Care,United States
+ZM,ZOOM COMMUNICATIONS INC CLASS A,Information Technology,United States
+ZS,ZSCALER INC,Information Technology,United States
+ZTS,ZOETIS INC CLASS A,Health Care,United States
+CNSWF,CONSTELLATION SOFTWARE INC,Information Technology,Canada
+JAPAY,JAPAN TOBACCO INC,Consumer Staples,Japan
+TYNPF,NIPPON SANSO HOLDINGS CORP,Materials,Japan
+MTLHY,MITSUBISHI CHEMICAL GROUP CORP,Materials,Japan
+ALPMY,ASTELLAS PHARMA INC,Health Care,Japan
+FUJIY,FUJIFILM HOLDINGS CORP,Information Technology,Japan
+ASGLF,AGC INC,Industrials,Japan
+KMTUF,KOMATSU LTD,Industrials,Japan
+MIELF,MITSUBISHI ELECTRIC CORP,Industrials,Japan
+RNECF,RENESAS ELECTRONICS CORP,Information Technology,Japan
+PCRFF,PANASONIC HOLDINGS CORP,Consumer Discretionary,Japan
+YOKEY,YOKOGAWA ELECTRIC CORP,Information Technology,Japan
+KWHIF,KAWASAKI HEAVY INDUSTRIES LTD,Industrials,Japan
+DSEEY,DAIWA SECURITIES GROUP INC,Financials,Japan
+NPPXF,NTT INC,Communication,Japan
+SFBQF,SOFTBANK CORP,Communication,Japan
+SFTBF,SOFTBANK GROUP CORP,Communication,Japan
+AIBRF,AIB GROUP PLC,Financials,Ireland
+AAFRF,AIRTEL AFRICA PLC,Communication,United Kingdom
+ABLZF,ABB LTD,Industrials,Switzerland
+ASBFF,ASSOCIATED BRITISH FOODS PLC,Consumer Staples,United Kingdom
+BUD,ANHEUSER-BUSCH INBEV SA,Consumer Staples,Belgium
+AEG,AEGON LTD,Financials,Netherlands
+ALTGF,ALTAGAS LTD,Utilities,Canada
+ANFGF,ANTOFAGASTA PLC,Materials,United Kingdom
+AIVAF,AVIVA PLC,Financials,United Kingdom
+DFRYF,AVOLTA AG,Consumer Discretionary,Switzerland
+AZRGF,AZRIELI GROUP LTD,Real Estate,Israel
+BAESY,BAE SYSTEMS PLC,Industrials,United Kingdom
+BCS,BARCLAYS PLC,Financials,United Kingdom
+BYCBF,BARRY CALLEBAUT AG,Consumer Staples,Switzerland
+BTI,BRITISH AMERICAN TOBACCO,Consumer Staples,United Kingdom
+BAYRY,BAYER AG,Health Care,Germany
+BDRFF,BEIERSDORF AG,Consumer Staples,Germany
+BKRIY,BANK OF IRELAND GROUP PLC,Financials,Ireland
+KPELF,KEPPEL LTD,Industrials,Singapore
+BTGOF,BT GROUP PLC,Communication,United Kingdom
+CGEMY,CAPGEMINI,Information Technology,France
+CBAUF,COMMONWEALTH BANK OF AUSTRALIA,Financials,Australia
+CRZBY,COMMERZBANK AG,Financials,Germany
+CPAMF,CAPITALAND INTEGRATED COMMERCIAL T,Real Estate,Singapore
+CLEGF,COLES GROUP LTD,Consumer Staples,Australia
+DBSDF,DBS GROUP HOLDINGS LTD,Financials,Singapore
+DBOEF,DEUTSCHE BOERSE AG,Financials,Germany
+DB,DEUTSCHE BANK AG,Financials,Germany
+DGEAF,DIAGEO PLC,Consumer Staples,United Kingdom
+DLVHF,DELIVERY HERO,Consumer Discretionary,Germany
+DHLGY,DEUTSCHE POST AG,Industrials,Germany
+DLMAF,DOLLARAMA INC,Consumer Discretionary,Canada
+DSGX,DESCARTES SYSTEMS GROUP INC,Information Technology,Canada
+EDVMF,ENDEAVOUR MINING,Materials,United Kingdom
+ELEEF,ELEMENT FLEET MANAGEMENT CORP,Industrials,Canada
+ELIAF,ELIA GROUP SA,Utilities,Belgium
+EXPGF,EXPERIAN PLC,Industrials,United Kingdom
+FQVLF,FIRST QUANTUM MINERALS LTD,Materials,Canada
+FMCQF,FRESENIUS MEDICAL CARE AG,Health Care,Germany
+FNLPF,FRESNILLO PLC,Materials,United Kingdom
+GEAGF,GEA GROUP AG,Industrials,Germany
+GBERF,GEBERIT AG,Industrials,Switzerland
+GJNSF,GJENSIDIGE FORSIKRING,Financials,Norway
+GLCNF,GLENCORE PLC,Materials,United Kingdom
+HAGHY,HENSOLDT AG,Industrials,Germany
+HALMY,HALMA PLC,Information Technology,United Kingdom
+HOCFF,HOCHTIEF AG,Industrials,Germany
+HBCYF,HSBC HOLDINGS PLC,Financials,United Kingdom
+INTAF,INTACT FINANCIAL CORP,Financials,Canada
+IFNNY,INFINEON TECHNOLOGIES AG,Information Technology,Germany
+IGIFF,IGM FINANCIAL INC,Financials,Canada
+IMBBF,IMPERIAL BRANDS PLC,Consumer Staples,United Kingdom
+IFPJF,INFORMA PLC,Communication,United Kingdom
+IKTSF,INTERTEK GROUP PLC,Industrials,United Kingdom
+KGFHF,KINGFISHER PLC,Consumer Discretionary,United Kingdom
+NSKFF,KONGSBERG GRUPPEN,Industrials,Norway
+KGSPY,KINGSPAN GROUP PLC,Industrials,Ireland
+KRYAY,KERRY GROUP PLC,Consumer Staples,Ireland
+DLAKF,DEUTSCHE LUFTHANSA AG,Industrials,Germany
+LYG,LLOYDS BANKING GROUP PLC,Financials,United Kingdom
+LZAGF,LONZA GROUP AG,Health Care,Switzerland
+LDNXF,LONDON STOCK EXCHANGE GROUP PLC,Financials,United Kingdom
+LUGDF,LUNDIN GOLD INC,Materials,Canada
+MAKSY,MARKS AND SPENCER GROUP PLC,Consumer Staples,United Kingdom
+MGPUF,M&G PLC,Financials,United Kingdom
+MTRAF,METRO INC,Consumer Staples,Canada
+MZTFF,MIZRAHI TEFAHOT BANK LTD,Financials,Israel
+NGGTF,NATIONAL GRID PLC,Utilities,United Kingdom
+OMVJF,OMV AG,Energy,Austria
+PGPHF,PARTNERS GROUP HOLDING AG,Financials,Switzerland
+PWCDF,POWER CORPORATION OF CANADA,Financials,Canada
+PSORF,PEARSON PLC,Consumer Discretionary,United Kingdom
+RATIY,RATIONAL AG,Industrials,Germany
+RAIFF,RAIFFEISEN BANK INTERNATIONAL AG,Financials,Austria
+RLXXF,RELX PLC,Industrials,United Kingdom
+RNMBY,RHEINMETALL AG,Industrials,Germany
+HESAF,HERMES INTERNATIONAL,Consumer Discretionary,France
+RHHBF,ROCHE HOLDING AG,Health Care,Switzerland
+RYCEF,ROLLS-ROYCE HOLDINGS PLC,Industrials,United Kingdom
+RWNFF,RWE AG,Utilities,Germany
+RYAAY,RYANAIR HOLDINGS PLC,Industrials,Ireland
+SGGKF,SINGAPORE TECHNOLOGIES ENGINEERING,Industrials,Singapore
+BNDSY,BANCO DE SABADELL,Financials,Spain
+STGPF,SCENTRE GROUP,Real Estate,Australia
+SWZCF,SWISSCOM AG,Communication,Switzerland
+SHNWF,SCHRODERS PLC,Financials,United Kingdom
+SDZNY,SANDOZ GROUP AG,Health Care,Switzerland
+SVKEF,SKANDINAVISKA ENSKILDA BANKEN,Financials,Sweden
+SGGEF,THE SAGE GROUP PLC,Information Technology,United Kingdom
+SXYAY,SIKA AG,Materials,Switzerland
+SZLMY,SWISS LIFE HOLDING AG,Financials,Switzerland
+SMGZY,SMITHS GROUP PLC,Industrials,United Kingdom
+SONVY,SONOVA HOLDING AG,Health Care,Switzerland
+SWPRF,SWISS PRIME SITE AG,Real Estate,Switzerland
+SSREY,SWISS RE AG,Financials,Switzerland
+SSEZF,SSE PLC,Utilities,United Kingdom
+SCBFF,STANDARD CHARTERED PLC,Financials,United Kingdom
+SAUHY,STRAUMANN HOLDING AG,Health Care,Switzerland
+STOSF,SANTOS LTD,Energy,Australia
+SVTRF,SEVERN TRENT PLC,Utilities,United Kingdom
+SYIEF,SYMRISE AG,Materials,Germany
+TMTNF,TOROMONT INDUSTRIES LTD,Industrials,Canada
+TRMLF,TOURMALINE OIL CORP,Energy,Canada
+SCRPF,SEMBCORP INDUSTRIES LTD,Utilities,Singapore
+UBS,UBS GROUP AG,Financials,Switzerland
+UNLYF,UNILEVER PLC,Consumer Staples,United Kingdom
+UUGWF,UNITED UTILITIES GROUP PLC,Utilities,United Kingdom
+VTTGF,VAT GROUP AG,Industrials,Switzerland
+CNRAF,VICINITY CENTRES,Real Estate,Australia
+VNNVF,VONOVIA SE,Real Estate,Germany
+VWSYF,VESTAS WIND SYSTEMS,Industrials,Denmark
+WEBNF,WESTPAC BANKING CORPORATION,Financials,Australia
+SPGYF,WHITECAP RESOURCES INC,Energy,Canada
+WSPOF,WSP GLOBAL INC,Industrials,Canada
+YRAIF,YARA INTERNATIONAL,Materials,Norway
+ZFSVF,ZURICH INSURANCE GROUP AG,Financials,Switzerland
+IPXHY,INPEX CORP,Energy,Japan
+KAOCF,KAO CORP,Consumer Staples,Japan
+TRUMY,TERUMO CORP,Health Care,Japan
+YAHOF,LY CORP,Communication,Japan
+BRDCY,BRIDGESTONE CORP,Consumer Discretionary,Japan
+DSCSY,DISCO CORP,Information Technology,Japan
+NJDCY,NIDEC CORP,Industrials,Japan
+NIPNF,NEC CORP,Information Technology,Japan
+SNEJF,SONY GROUP CORP,Consumer Discretionary,Japan
+TTDKF,TDK CORP,Information Technology,Japan
+ATEYY,ADVANTEST CORP,Information Technology,Japan
+OCPNF,OLYMPUS CORP,Health Care,Japan
+ITOCY,ITOCHU CORP,Industrials,Japan
+MTSUY,MITSUBISHI CORP,Industrials,Japan
+UNICY,UNICHARM CORP,Consumer Staples,Japan
+IX,ORIX CORP,Financials,Japan
+NPNYY,NIPPON YUSEN,Industrials,Japan
+KDDIF,KDDI CORP,Communication,Japan
+DETNF,AKER BP,Energy,Norway
+ALFVY,ALFA LAVAL,Industrials,Sweden
+BNCDY,BANCA MEDIOLANUM,Financials,Italy
+BZLFY,BUNZL,Industrials,United Kingdom
+BPXXY,BPER BANCA,Financials,Italy
+BZZUY,BUZZI,Materials,Italy
+CLLNY,CELLNEX TELECOM,Communication,Spain
+DNKEY,DANSKE BANK,Financials,Denmark
+WILLF,DEMANT,Health Care,Denmark
+DSDVY,DSV,Industrials,Denmark
+ELMUF,ELISA,Communication,Finland
+ENLAY,ENEL,Utilities,Italy
+CEVMF,CTS EVENTIM AG,Communication,Germany
+FOJCY,FORTUM,Utilities,Finland
+HELKF,HENKEL AG,Consumer Staples,Germany
+HMRZF,HENNES & MAURITZ,Consumer Discretionary,Sweden
+ITGGF,ITALGAS,Utilities,Italy
+IITSF,INTESA SANPAOLO,Financials,Italy
+KNYJF,KONE,Industrials,Finland
+LUNMF,LUNDIN MINING CORP,Materials,Canada
+OUKPY,METSO CORPORATION,Industrials,Finland
+MONRF,MONCLER,Consumer Discretionary,Italy
+MHGVY,MOWI,Consumer Staples,Norway
+NBNKF,NORDEA BANK,Financials,Finland
+NTOIY,NESTE,Energy,Finland
+NHYDY,NORSK HYDRO,Materials,Norway
+NOK,NOKIA,Information Technology,Finland
+ORKLF,ORKLA,Consumer Staples,Norway
+PNDRY,PANDORA,Consumer Discretionary,Denmark
+PRYMY,PRYSMIAN,Industrials,Italy
+PITAF,POSTE ITALIANE,Financials,Italy
+BIOVF,SWEDISH ORPHAN BIOVITRUM,Health Care,Sweden
+SWDBF,SWEDBANK,Financials,Sweden
+TLSNF,TELIA COMPANY,Communication,Sweden
+TIAOF,TELECOM ITALIA,Communication,Italy
+TGVSF,TRYG,Financials,Denmark
+UNCRY,UNICREDIT,Financials,Italy
+UPMMY,UPM-KYMMENE,Materials,Finland
+ZLDSF,ZALANDO,Consumer Discretionary,Germany

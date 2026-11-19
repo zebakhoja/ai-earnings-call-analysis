@@ -1,0 +1,1285 @@
+ticker,company_name,gics_sector,country,exchange,fmp_ambiguous_symbol
+-,CYBERARK SOFTWARE CONTRA,Information Technology,Israel,NO MARKET (E.G. UNLISTED),False
+1,CK HUTCHISON HOLDINGS LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1038,CHEUNG KONG INFRASTRUCTURE HOLDING,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1113,CK ASSET HOLDINGS LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+12,HENDERSON LAND DEVELOPMENT LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1299,AIA GROUP LTD,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1308,SITC INTERNATIONAL HOLDINGS LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+16,SUN HUNG KAI PROPERTIES LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1605,INPEX CORP,Energy,Japan,Tokyo Stock Exchange,False
+1801,TAISEI CORP,Industrials,Japan,Tokyo Stock Exchange,False
+1802,OBAYASHI CORP,Industrials,Japan,Tokyo Stock Exchange,False
+1803,SHIMIZU CORP,Industrials,Japan,Tokyo Stock Exchange,False
+1812,KAJIMA CORP,Industrials,Japan,Tokyo Stock Exchange,False
+1878,DAITO TRUST CONSTRUCTION LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+19,SWIRE PACIFIC LTD A,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+1925,DAIWA HOUSE INDUSTRY LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+1928,SEKISUI HOUSE LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,True
+1928,SANDS CHINA LTD,Consumer Discretionary,Hong Kong,Hong Kong Exchanges And Clearing Ltd,True
+1997,WHARF REAL ESTATE INVESTMENT COMPA,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+2,CLP HOLDINGS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+2299955D,CONSTELLATION SOFTWARE INC,Information Technology,Canada,Toronto Stock Exchange,False
+2388,BOC HONG KONG HOLDINGS LTD,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+2502,ASAHI GROUP HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+2503,KIRIN HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+2587,SUNTORY BEVERAGE & FOOD LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+27,GALAXY ENTERTAINMENT GROUP LTD,Consumer Discretionary,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+2801,KIKKOMAN CORP,Consumer Staples,Japan,Tokyo Stock Exchange,False
+2802,AJINOMOTO INC,Consumer Staples,Japan,Tokyo Stock Exchange,False
+285A,KIOXIA HOLDINGS CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+288,WH GROUP LTD,Consumer Staples,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+2914,JAPAN TOBACCO INC,Consumer Staples,Japan,Tokyo Stock Exchange,False
+3,HONG KONG AND CHINA GAS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+3003,HULIC LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+3382,SEVEN & I HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+3402,TORAY INDUSTRIES INC,Materials,Japan,Tokyo Stock Exchange,False
+3407,ASAHI KASEI CORP,Materials,Japan,Tokyo Stock Exchange,False
+3659,NEXON LTD,Communication,Japan,Tokyo Stock Exchange,False
+388,HONG KONG EXCHANGES AND CLEARING L,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+4004,RESONAC HOLDINGS,Materials,Japan,Tokyo Stock Exchange,False
+4062,IBIDEN LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+4063,SHIN ETSU CHEMICAL LTD,Materials,Japan,Tokyo Stock Exchange,False
+4091,NIPPON SANSO HOLDINGS CORP,Materials,Japan,Tokyo Stock Exchange,False
+4151,KYOWA KIRIN LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4188,MITSUBISHI CHEMICAL GROUP CORP,Materials,Japan,Tokyo Stock Exchange,False
+4307,NOMURA RESEARCH INSTITUTE LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+4452,KAO CORP,Consumer Staples,Japan,Tokyo Stock Exchange,False
+4502,TAKEDA PHARMACEUTICAL LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4503,ASTELLAS PHARMA INC,Health Care,Japan,Tokyo Stock Exchange,False
+4507,SHIONOGI LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4519,CHUGAI PHARMACEUTICAL LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4523,EISAI LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4543,TERUMO CORP,Health Care,Japan,Tokyo Stock Exchange,False
+4568,DAIICHI SANKYO LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4578,OTSUKA HOLDINGS LTD,Health Care,Japan,Tokyo Stock Exchange,False
+4612,NIPPON PAINT HOLDINGS LTD,Materials,Japan,Tokyo Stock Exchange,False
+4661,ORIENTAL LAND LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+4684,OBIC LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+4689,LY CORP,Communication,Japan,Tokyo Stock Exchange,False
+4755,RAKUTEN GROUP INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+4768,OTSUKA CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+4901,FUJIFILM HOLDINGS CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+4911,SHISEIDO LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+5016,JX ADVANCED METALS CORP,Materials,Japan,Tokyo Stock Exchange,False
+5019,IDEMITSU KOSAN LTD,Energy,Japan,Tokyo Stock Exchange,False
+5020,ENEOS HOLDINGS INC,Energy,Japan,Tokyo Stock Exchange,False
+5108,BRIDGESTONE CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+5201,AGC INC,Industrials,Japan,Tokyo Stock Exchange,False
+5401,NIPPON STEEL CORP,Materials,Japan,Tokyo Stock Exchange,False
+5411,JFE HOLDINGS INC,Materials,Japan,Tokyo Stock Exchange,False
+5706,MITSUI KINZOKU LIMITED LTD,Materials,Japan,Tokyo Stock Exchange,False
+5713,SUMITOMO METAL MINING LTD,Materials,Japan,Tokyo Stock Exchange,False
+5801,FURUKAWA ELECTRIC LTD,Industrials,Japan,Tokyo Stock Exchange,False
+5802,SUMITOMO ELECTRIC INDUSTRIES LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+5803,FUJIKURA LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6,POWER ASSETS HOLDINGS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+6098,RECRUIT HOLDINGS LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6146,DISCO CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6178,JAPAN POST HOLDINGS LTD,Financials,Japan,Tokyo Stock Exchange,False
+6273,SMC (JAPAN) CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6301,KOMATSU LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6326,KUBOTA CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6361,EBARA CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6367,DAIKIN INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6383,DAIFUKU LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6479,MINEBEA MITSUMI INC,Industrials,Japan,Tokyo Stock Exchange,False
+6501,HITACHI LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6503,MITSUBISHI ELECTRIC CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6504,FUJI ELECTRIC LTD,Industrials,Japan,Tokyo Stock Exchange,False
+6586,MAKITA CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6594,NIDEC CORP,Industrials,Japan,Tokyo Stock Exchange,False
+66,MTR CORPORATION CORP LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+669,TECHTRONIC INDUSTRIES LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+6701,NEC CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6702,FUJITSU LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+6723,RENESAS ELECTRONICS CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6752,PANASONIC HOLDINGS CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+6758,SONY GROUP CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+6762,TDK CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6823,HKT TRUST AND HKT UNITS LTD,Communication,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+6841,YOKOGAWA ELECTRIC CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6857,ADVANTEST CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6861,KEYENCE CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6902,DENSO CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+6920,LASERTEC CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6954,FANUC CORP,Industrials,Japan,Tokyo Stock Exchange,False
+6971,KYOCERA CORP,Information Technology,Japan,Tokyo Stock Exchange,False
+6981,MURATA MANUFACTURING LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+6988,NITTO DENKO CORP,Materials,Japan,Tokyo Stock Exchange,False
+7011,MITSUBISHI HEAVY INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,False
+7012,KAWASAKI HEAVY INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,False
+7013,IHI CORP,Industrials,Japan,Tokyo Stock Exchange,False
+7181,JAPAN POST INSURANCE LTD,Financials,Japan,Tokyo Stock Exchange,False
+7182,JAPAN POST BANK LTD,Financials,Japan,Tokyo Stock Exchange,False
+7186,YOKOHAMA FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+7201,NISSAN MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7202,ISUZU MOTORS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7203,TOYOTA MOTOR CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7259,AISIN CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7267,HONDA MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7269,SUZUKI MOTOR CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7270,SUBARU CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7272,YAMAHA MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7309,SHIMANO INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7453,RYOHIN KEIKAKU LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7532,PAN PACIFIC INTERNATIONAL HOLDINGS,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7550,ZENSHO HOLDINGS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7733,OLYMPUS CORP,Health Care,Japan,Tokyo Stock Exchange,False
+7735,SCREEN HOLDINGS LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+7741,HOYA CORP,Health Care,Japan,Tokyo Stock Exchange,False
+7751,CANON INC,Information Technology,Japan,Tokyo Stock Exchange,False
+7832,BANDAI NAMCO HOLDINGS INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7911,TOPPAN HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,False
+7912,DAI NIPPON PRINTING LTD,Industrials,Japan,Tokyo Stock Exchange,False
+7936,ASICS CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+7974,NINTENDO LTD,Communication,Japan,Tokyo Stock Exchange,False
+8001,ITOCHU CORP,Industrials,Japan,Tokyo Stock Exchange,False
+8002,MARUBENI CORP,Industrials,Japan,Tokyo Stock Exchange,False
+8015,TOYOTA TSUSHO CORP,Industrials,Japan,Tokyo Stock Exchange,False
+8031,MITSUI LTD,Industrials,Japan,Tokyo Stock Exchange,False
+8035,TOKYO ELECTRON LTD,Information Technology,Japan,Tokyo Stock Exchange,False
+8053,SUMITOMO CORP,Industrials,Japan,Tokyo Stock Exchange,False
+8058,MITSUBISHI CORP,Industrials,Japan,Tokyo Stock Exchange,False
+8113,UNICHARM CORP,Consumer Staples,Japan,Tokyo Stock Exchange,False
+8136,SANRIO LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+823,LINK REAL ESTATE INVESTMENT TRUST,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+8267,AEON LTD,Consumer Staples,Japan,Tokyo Stock Exchange,False
+83,SINO LAND LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,False
+8306,MITSUBISHI UFJ FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8308,RESONA HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8309,SUMITOMO MITSUI TRUST GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8316,SUMITOMO MITSUI FINANCIAL GROUP IN,Financials,Japan,Tokyo Stock Exchange,False
+8331,CHIBA BANK LTD,Financials,Japan,Tokyo Stock Exchange,False
+8411,MIZUHO FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8473,SBI HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8591,ORIX CORP,Financials,Japan,Tokyo Stock Exchange,False
+8593,MITSUBISHI HC CAPITAL INC,Financials,Japan,Tokyo Stock Exchange,False
+8601,DAIWA SECURITIES GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8604,NOMURA HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8630,SOMPO HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8697,JAPAN EXCHANGE GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8725,MS&AD INSURANCE GROUP HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8750,DAIICHI LIFE GROUP INC,Financials,Japan,Tokyo Stock Exchange,False
+8766,TOKIO MARINE HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8795,T&D HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,False
+8801,MITSUI FUDOSAN LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+8802,MITSUBISHI ESTATE CO LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+8830,SUMITOMO REALTY & DEVELOPMENT LTD,Real Estate,Japan,Tokyo Stock Exchange,False
+8951,NIPPON BUILDING FUND REIT INC,Real Estate,Japan,Tokyo Stock Exchange,False
+9020,EAST JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,False
+9021,WEST JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,False
+9022,CENTRAL JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,False
+9024,SEIBU HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,False
+9042,HANKYU HANSHIN HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,False
+9101,NIPPON YUSEN,Industrials,Japan,Tokyo Stock Exchange,False
+9104,MITSUI OSK LINES LTD,Industrials,Japan,Tokyo Stock Exchange,False
+9107,KAWASAKI KISEN LTD,Industrials,Japan,Tokyo Stock Exchange,False
+9202,ANA HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,False
+9432,NTT INC,Communication,Japan,Tokyo Stock Exchange,False
+9433,KDDI CORP,Communication,Japan,Tokyo Stock Exchange,False
+9434,SOFTBANK CORP,Communication,Japan,Tokyo Stock Exchange,False
+9435,HIKARI TSUSHIN INC,Industrials,Japan,Tokyo Stock Exchange,False
+9502,CHUBU ELECTRIC POWER INC,Utilities,Japan,Tokyo Stock Exchange,False
+9503,KANSAI ELECTRIC POWER INC,Utilities,Japan,Tokyo Stock Exchange,False
+9531,TOKYO GAS LTD,Utilities,Japan,Tokyo Stock Exchange,False
+9532,OSAKA GAS LTD,Utilities,Japan,Tokyo Stock Exchange,False
+9602,TOHO (TOKYO) LTD,Communication,Japan,Tokyo Stock Exchange,False
+9697,CAPCOM LTD,Communication,Japan,Tokyo Stock Exchange,False
+9735,SECOM LTD,Industrials,Japan,Tokyo Stock Exchange,False
+9766,KONAMI GROUP CORP,Communication,Japan,Tokyo Stock Exchange,False
+9843,NITORI HOLDINGS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+9983,FAST RETAILING LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,False
+9984,SOFTBANK GROUP CORP,Communication,Japan,Tokyo Stock Exchange,False
+9CI,CAPITALAND INVESTMENT LTD,Real Estate,Singapore,Singapore Exchange,False
+A,AGILENT TECHNOLOGIES INC,Health Care,United States,New York Stock Exchange Inc.,False
+A5G,AIB GROUP PLC,Financials,Ireland,Irish Stock Exchange - All Market,False
+AAF,AIRTEL AFRICA PLC,Communication,United Kingdom,London Stock Exchange,False
+AAL,ANGLO AMERICAN PLC,Materials,United Kingdom,London Stock Exchange,False
+AAPL,APPLE INC,Information Technology,United States,NASDAQ,False
+ABBN,ABB LTD,Industrials,Switzerland,SIX Swiss Exchange,False
+ABBV,ABBVIE INC,Health Care,United States,New York Stock Exchange Inc.,False
+ABF,ASSOCIATED BRITISH FOODS PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+ABI,ANHEUSER-BUSCH INBEV SA,Consumer Staples,Belgium,Nyse Euronext - Euronext Brussels,False
+ABN,ABN AMRO BANK NV,Financials,Netherlands,Euronext Amsterdam,False
+ABNB,AIRBNB INC CLASS A,Consumer Discretionary,United States,NASDAQ,False
+ABT,ABBOTT LABORATORIES,Health Care,United States,New York Stock Exchange Inc.,False
+ABX,BARRICK MINING CORP,Materials,Canada,Toronto Stock Exchange,False
+AC,ACCOR SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+ACA,CREDIT AGRICOLE SA,Financials,France,Nyse Euronext - Euronext Paris,False
+ACGL,ARCH CAPITAL GROUP LTD,Financials,United States,NASDAQ,False
+ACN,ACCENTURE PLC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+ACS,ACS ACTIVIDADES DE CONSTRUCCION Y,Industrials,Spain,Bolsa De Madrid,False
+ACS.D,DERECHOS ACTIVIDADES DE CONSTRUCCI,Industrials,Spain,Bolsa De Madrid,False
+AD,KONINKLIJKE AHOLD DELHAIZE NV,Consumer Staples,Netherlands,Euronext Amsterdam,False
+ADBE,ADOBE INC,Information Technology,United States,NASDAQ,False
+ADDT B,ADDTECH CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+ADI,ANALOG DEVICES INC,Information Technology,United States,NASDAQ,False
+ADM,ARCHER DANIELS MIDLAND,Consumer Staples,United States,New York Stock Exchange Inc.,False
+ADM,ADMIRAL GROUP PLC,Financials,United Kingdom,London Stock Exchange,True
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,United States,NASDAQ,False
+ADP,AEROPORTS DE PARIS SA,Industrials,France,Nyse Euronext - Euronext Paris,True
+ADS,ADIDAS N AG,Consumer Discretionary,Germany,Xetra,False
+ADSK,AUTODESK INC,Information Technology,United States,NASDAQ,False
+ADYEN,ADYEN NV,Financials,Netherlands,Euronext Amsterdam,False
+AEE,AMEREN CORP,Utilities,United States,New York Stock Exchange Inc.,False
+AEM,AGNICO EAGLE MINES LTD,Materials,Canada,Toronto Stock Exchange,False
+AENA,AENA SME SA,Industrials,Spain,Bolsa De Madrid,False
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,United States,NASDAQ,False
+AER,AERCAP HOLDINGS NV,Industrials,Netherlands,New York Stock Exchange Inc.,False
+AFL,AFLAC INC,Financials,United States,New York Stock Exchange Inc.,False
+AFRM,AFFIRM HOLDINGS INC CLASS A,Financials,United States,NASDAQ,False
+AGI,ALAMOS GOLD INC CLASS A,Materials,Canada,Toronto Stock Exchange,False
+AGN,AEGON LTD,Financials,Netherlands,Euronext Amsterdam,False
+AGS,AGEAS SA,Financials,Belgium,Nyse Euronext - Euronext Brussels,False
+AI,LAIR LIQUIDE SOCIETE ANONYME POUR,Materials,France,Nyse Euronext - Euronext Paris,False
+AIA,AUCKLAND INTERNATIONAL AIRPORT LTD,Industrials,New Zealand,New Zealand Exchange Ltd,False
+AIG,AMERICAN INTERNATIONAL GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+AIR,AIRBUS GROUP,Industrials,France,Nyse Euronext - Euronext Paris,False
+AJG,ARTHUR J GALLAGHER,Financials,United States,New York Stock Exchange Inc.,False
+AKRBP,AKER BP,Energy,Norway,Oslo Bors Asa,False
+AKZA,AKZO NOBEL NV,Materials,Netherlands,Euronext Amsterdam,False
+ALA,ALTAGAS LTD,Utilities,Canada,Toronto Stock Exchange,False
+ALAB,ASTERA LABS INC,Information Technology,United States,NASDAQ,False
+ALC,ALCON AG,Health Care,Switzerland,SIX Swiss Exchange,False
+ALFA,ALFA LAVAL,Industrials,Sweden,Nasdaq Omx Nordic,False
+ALL,ALLSTATE CORP,Financials,United States,New York Stock Exchange Inc.,False
+ALL,ARISTOCRAT LEISURE LTD,Consumer Discretionary,Australia,Asx - All Markets,True
+ALLE,ALLEGION PLC,Industrials,United States,New York Stock Exchange Inc.,False
+ALNY,ALNYLAM PHARMACEUTICALS INC,Health Care,United States,NASDAQ,False
+ALO,ALSTOM SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+ALV,ALLIANZ,Financials,Germany,Xetra,False
+AM,DASSAULT AVIATION SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+AMAT,APPLIED MATERIAL INC,Information Technology,United States,NASDAQ,False
+AMCR,AMCOR PLC,Materials,United States,New York Stock Exchange Inc.,False
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,United States,NASDAQ,False
+AME,AMETEK INC,Industrials,United States,New York Stock Exchange Inc.,False
+AMGN,AMGEN INC,Health Care,United States,NASDAQ,False
+AMP,AMERIPRISE FINANCE INC,Financials,United States,New York Stock Exchange Inc.,False
+AMRZ,AMRIZE AG,Materials,United States,New York Stock Exchange Inc.,False
+AMS,AMADEUS IT GROUP SA,Consumer Discretionary,Spain,Bolsa De Madrid,False
+AMT,AMERICAN TOWER REIT CORP,Real Estate,United States,New York Stock Exchange Inc.,False
+AMUN,AMUNDI SA,Financials,France,Nyse Euronext - Euronext Paris,False
+AMZN,AMAZON.COM INC,Consumer Discretionary,United States,NASDAQ,False
+ANA,ACCIONA SA,Utilities,Spain,Bolsa De Madrid,False
+ANET,ARISTA NETWORKS INC,Information Technology,United States,New York Stock Exchange Inc.,False
+ANTO,ANTOFAGASTA PLC,Materials,United Kingdom,London Stock Exchange,False
+ANZ,ANZ GROUP HOLDINGS LTD,Financials,Australia,Asx - All Markets,False
+AON,AON PLC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+APA,APA GROUP UNITS,Utilities,Australia,Asx - All Markets,False
+APD,AIR PRODUCTS AND CHEMICALS INC,Materials,United States,New York Stock Exchange Inc.,False
+APH,AMPHENOL CORP CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+APO,APOLLO GLOBAL MANAGEMENT INC,Financials,United States,New York Stock Exchange Inc.,False
+APP,APPLOVIN CORP CLASS A,Information Technology,United States,NASDAQ,False
+APTV,APTIV PLC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+ARES,ARES MANAGEMENT CORP CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+ARGX,ARGENX,Health Care,Belgium,Nyse Euronext - Euronext Brussels,False
+ARX,ARC RESOURCES LTD,Energy,Canada,Toronto Stock Exchange,False
+ASM,ASM INTERNATIONAL NV,Information Technology,Netherlands,Euronext Amsterdam,False
+ASML,ASML HOLDING NV,Information Technology,Netherlands,Euronext Amsterdam,False
+ASRNL,ASR NEDERLAND NV,Financials,Netherlands,Euronext Amsterdam,False
+ASSA B,ASSA ABLOY B,Industrials,Sweden,Nasdaq Omx Nordic,False
+ASTS,AST SPACEMOBILE INC CLASS A,Communication,United States,NASDAQ,False
+ASX,ASX LTD,Financials,Australia,Asx - All Markets,False
+ATCO A,ATLAS COPCO CLASS A,Industrials,Sweden,Nasdaq Omx Nordic,False
+ATCO B,ATLAS COPCO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+ATD,ALIMENTATION COUCHE TARD INC,Consumer Staples,Canada,Toronto Stock Exchange,False
+ATO,ATMOS ENERGY CORP,Utilities,United States,New York Stock Exchange Inc.,False
+ATRL,ATKINSREALIS GROUP INC,Industrials,Canada,Toronto Stock Exchange,False
+AV.,AVIVA PLC,Financials,United Kingdom,London Stock Exchange,False
+AVB,AVALONBAY COMMUNITIES REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+AVGO,BROADCOM INC,Information Technology,United States,NASDAQ,False
+AVOL,AVOLTA AG,Consumer Discretionary,Switzerland,SIX Swiss Exchange,False
+AVY,AVERY DENNISON CORP,Materials,United States,New York Stock Exchange Inc.,False
+AWK,AMERICAN WATER WORKS INC,Utilities,United States,New York Stock Exchange Inc.,False
+AXON,AXON ENTERPRISE INC,Industrials,United States,NASDAQ,False
+AXP,AMERICAN EXPRESS,Financials,United States,New York Stock Exchange Inc.,False
+AYV,AYVENS SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+AZN,ASTRAZENECA PLC,Health Care,United Kingdom,London Stock Exchange,False
+AZO,AUTOZONE INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+AZRG,AZRIELI GROUP LTD,Real Estate,Israel,Tel Aviv Stock Exchange,False
+BA,BOEING,Industrials,United States,New York Stock Exchange Inc.,False
+BA.,BAE SYSTEMS PLC,Industrials,United Kingdom,London Stock Exchange,False
+BAC,BANK OF AMERICA CORP,Financials,United States,New York Stock Exchange Inc.,False
+BAER,JULIUS BAER GRUPPE AG,Financials,Switzerland,SIX Swiss Exchange,False
+BALD B,FASTIGHETS BALDER CLASS B,Real Estate,Sweden,Nasdaq Omx Nordic,False
+BALL,BALL CORP,Materials,United States,New York Stock Exchange Inc.,False
+BAM,BROOKFIELD ASSET MANAGEMENT VOTING,Financials,Canada,Toronto Stock Exchange,False
+BAMI,BANCO BPM,Financials,Italy,Borsa Italiana,False
+BARC,BARCLAYS PLC,Financials,United Kingdom,London Stock Exchange,False
+BARN,BARRY CALLEBAUT AG,Consumer Staples,Switzerland,SIX Swiss Exchange,False
+BAS,BASF N,Materials,Germany,Xetra,False
+BATS,BRITISH AMERICAN TOBACCO,Consumer Staples,United Kingdom,London Stock Exchange,False
+BAYN,BAYER AG,Health Care,Germany,Xetra,False
+BBD.B,BOMBARDIER INC CLASS B,Industrials,Canada,Toronto Stock Exchange,False
+BBVA,BANCO BILBAO VIZCAYA ARGENTARIA SA,Financials,Spain,Bolsa De Madrid,False
+BBY,BEST BUY INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+BCE,BCE INC,Communication,Canada,Toronto Stock Exchange,False
+BCP,BANCO COMERCIAL PORTUGUES SA,Financials,Portugal,Nyse Euronext - Euronext Lisbon,False
+BCVN,BC VAUD N,Financials,Switzerland,SIX Swiss Exchange,False
+BDX,BECTON DICKINSON,Health Care,United States,New York Stock Exchange Inc.,False
+BE,BLOOM ENERGY CLASS A CORP,Industrials,United States,New York Stock Exchange Inc.,False
+BEAN,BELIMO N AG,Industrials,Switzerland,SIX Swiss Exchange,False
+BEI,BEIERSDORF AG,Consumer Staples,Germany,Xetra,False
+BEIJ B,BEIJER REF CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+BEPC,BROOKFIELD RENEWABLE SUBORDINATE V,Utilities,Canada,Toronto Stock Exchange,False
+BESI,BE SEMICONDUCTOR INDUSTRIES NV,Information Technology,Netherlands,Euronext Amsterdam,False
+BG,BUNGE GLOBAL SA,Consumer Staples,United States,New York Stock Exchange Inc.,False
+BG,BAWAG GROUP AG,Financials,Austria,Wiener Boerse Ag,True
+BHP,BHP GROUP LTD,Materials,Australia,Asx - All Markets,False
+BIIB,BIOGEN INC,Health Care,United States,NASDAQ,False
+BIM,BIOMERIEUX SA,Health Care,France,Nyse Euronext - Euronext Paris,False
+BIRG,BANK OF IRELAND GROUP PLC,Financials,Ireland,Irish Stock Exchange - All Market,False
+BKNG,BOOKING HOLDINGS INC,Consumer Discretionary,United States,NASDAQ,False
+BKR,BAKER HUGHES CLASS A,Energy,United States,NASDAQ,False
+BKT,BANKINTER SA,Financials,Spain,Bolsa De Madrid,False
+BKW,BKW N AG,Utilities,Switzerland,SIX Swiss Exchange,False
+BLK,BLACKROCK INC,Financials,United States,New York Stock Exchange Inc.,False
+BMED,BANCA MEDIOLANUM,Financials,Italy,Borsa Italiana,False
+BMO,BANK OF MONTREAL,Financials,Canada,Toronto Stock Exchange,False
+BMPS,BANCA MONTE DEI PASCHI DI SIENA SP,Financials,Italy,Borsa Italiana,False
+BMW,BMW AG,Consumer Discretionary,Germany,Xetra,False
+BMY,BRISTOL MYERS SQUIBB,Health Care,United States,New York Stock Exchange Inc.,False
+BN,BROOKFIELD CORP CLASS A,Financials,Canada,Toronto Stock Exchange,True
+BN,DANONE SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,True
+BN4,KEPPEL LTD,Industrials,Singapore,Singapore Exchange,False
+BNP,BNP PARIBAS SA,Financials,France,Nyse Euronext - Euronext Paris,False
+BNR,BRENNTAG,Industrials,Germany,Xetra,False
+BNS,BANK OF NOVA SCOTIA,Financials,Canada,Toronto Stock Exchange,False
+BNY,BANK OF NEW YORK MELLON CORP,Financials,United States,New York Stock Exchange Inc.,False
+BNZL,BUNZL,Industrials,United Kingdom,London Stock Exchange,False
+BOL,BOLIDEN,Materials,Sweden,Nasdaq Omx Nordic,True
+BOL,BOLLORE,Energy,France,Nyse Euronext - Euronext Paris,True
+BP.,BP PLC,Energy,United Kingdom,London Stock Exchange,False
+BPE,BPER BANCA,Financials,Italy,Borsa Italiana,False
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,United States,New York Stock Exchange Inc.,False
+BRKB,BERKSHIRE HATHAWAY INC CLASS B,Financials,United States,New York Stock Exchange Inc.,False
+BRO,BROWN & BROWN INC,Financials,United States,New York Stock Exchange Inc.,False
+BS6,YANGZIJIANG SHIPBUILDING (HOLDINGS,Industrials,Singapore,Singapore Exchange,False
+BSX,BOSTON SCIENTIFIC CORP,Health Care,United States,New York Stock Exchange Inc.,False
+BT.A,BT GROUP PLC,Communication,United Kingdom,London Stock Exchange,False
+BURL,BURLINGTON STORES INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+BVI,BUREAU VERITAS SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+BX,BLACKSTONE INC,Financials,United States,New York Stock Exchange Inc.,False
+BXB,BRAMBLES LTD,Industrials,Australia,Asx - All Markets,False
+BZU,BUZZI,Materials,Italy,Borsa Italiana,False
+C,CITIGROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+C6L,SINGAPORE AIRLINES LTD,Industrials,Singapore,Singapore Exchange,False
+CA,CARREFOUR SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,False
+CABK,CAIXABANK SA,Financials,Spain,Bolsa De Madrid,False
+CAE,CAE INC,Industrials,Canada,Toronto Stock Exchange,False
+CAH,CARDINAL HEALTH INC,Health Care,United States,New York Stock Exchange Inc.,False
+CAP,CAPGEMINI,Information Technology,France,Nyse Euronext - Euronext Paris,False
+CAR,CAR GROUP LTD,Communication,Australia,Asx - All Markets,False
+CARL B,CARLSBERG AS CL B,Consumer Staples,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+CARR,CARRIER GLOBAL CORP,Industrials,United States,New York Stock Exchange Inc.,False
+CASY,CASEYS GENERAL STORES INC,Consumer Staples,United States,NASDAQ,False
+CAT,CATERPILLAR INC,Industrials,United States,New York Stock Exchange Inc.,False
+CB,CHUBB,Financials,United States,New York Stock Exchange Inc.,False
+CBA,COMMONWEALTH BANK OF AUSTRALIA,Financials,Australia,Asx - All Markets,False
+CBK,COMMERZBANK AG,Financials,Germany,Xetra,False
+CBOE,CBOE GLOBAL MARKETS INC,Financials,United States,Cboe BZX,False
+CBRE,CBRE GROUP INC CLASS A,Real Estate,United States,New York Stock Exchange Inc.,False
+CCEP,COCA COLA EUROPACIFIC PARTNERS PLC,Consumer Staples,Netherlands,NASDAQ,False
+CCH,COCA COLA HBC AG,Consumer Staples,United Kingdom,London Stock Exchange,False
+CCI,CROWN CASTLE INC,Real Estate,United States,New York Stock Exchange Inc.,False
+CCL,CARNIVAL CORP LTD,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+CCL.B,CCL INDUSTRIES INC CLASS B,Materials,Canada,Toronto Stock Exchange,False
+CCO,CAMECO CORP,Energy,Canada,Toronto Stock Exchange,False
+CDE,COEUR MINING INC,Materials,United States,New York Stock Exchange Inc.,False
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,United States,NASDAQ,False
+CDW,CDW CORP,Information Technology,United States,NASDAQ,False
+CEG,CONSTELLATION ENERGY CORP,Utilities,United States,NASDAQ,False
+CEN,CONTACT ENERGY LTD,Utilities,New Zealand,New Zealand Exchange Ltd,False
+CF,CF INDUSTRIES HOLDINGS INC,Materials,United States,New York Stock Exchange Inc.,False
+CFG,CITIZENS FINANCIAL GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+CFR,COMPAGNIE FINANCIERE RICHEMONT SA,Consumer Discretionary,Switzerland,SIX Swiss Exchange,False
+CG,CARLYLE GROUP INC,Financials,United States,NASDAQ,False
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES,Information Technology,Israel,NASDAQ,False
+CHRW,CH ROBINSON WORLDWIDE INC,Industrials,United States,NASDAQ,False
+CHTR,CHARTER COMMUNICATIONS INC CLASS A,Communication,United States,NASDAQ,False
+CI,CIGNA,Health Care,United States,New York Stock Exchange Inc.,False
+CICT,CAPITALAND INTEGRATED COMMERCIAL T,Real Estate,Singapore,Singapore Exchange,False
+CIEN,CIENA CORP,Information Technology,United States,New York Stock Exchange Inc.,False
+CINF,CINCINNATI FINANCIAL CORP,Financials,United States,NASDAQ,False
+CL,COLGATE-PALMOLIVE,Consumer Staples,United States,New York Stock Exchange Inc.,False
+CLAR,CAPITALAND ASCENDAS REIT,Real Estate,Singapore,Singapore Exchange,False
+CLNX,CELLNEX TELECOM,Communication,Spain,Bolsa De Madrid,False
+CLS,CELESTICA INC,Information Technology,Canada,Toronto Stock Exchange,False
+CLX,CLOROX,Consumer Staples,United States,New York Stock Exchange Inc.,False
+CM,CANADIAN IMPERIAL BANK OF COMMERCE,Financials,Canada,Toronto Stock Exchange,False
+CMCSA,COMCAST CORP CLASS A,Communication,United States,NASDAQ,False
+CME,CME GROUP INC CLASS A,Financials,United States,NASDAQ,False
+CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+CMI,CUMMINS INC,Industrials,United States,New York Stock Exchange Inc.,False
+CMS,CMS ENERGY CORP,Utilities,United States,New York Stock Exchange Inc.,False
+CNA,CENTRICA PLC,Utilities,United Kingdom,London Stock Exchange,False
+CNC,CENTENE CORP,Health Care,United States,New York Stock Exchange Inc.,False
+CNH,CNH INDUSTRIAL N.V. NV,Industrials,United States,New York Stock Exchange Inc.,False
+CNP,CENTERPOINT ENERGY INC,Utilities,United States,New York Stock Exchange Inc.,False
+CNQ,CANADIAN NATURAL RESOURCES LTD,Energy,Canada,Toronto Stock Exchange,False
+CNR,CANADIAN NATIONAL RAILWAY,Industrials,Canada,Toronto Stock Exchange,False
+COF,CAPITAL ONE FINANCIAL CORP,Financials,United States,New York Stock Exchange Inc.,False
+COH,COCHLEAR LTD,Health Care,Australia,Asx - All Markets,False
+COHR,COHERENT CORP,Information Technology,United States,New York Stock Exchange Inc.,False
+COIN,COINBASE GLOBAL INC CLASS A,Financials,United States,NASDAQ,False
+COL,COLES GROUP LTD,Consumer Staples,Australia,Asx - All Markets,False
+COLO B,COLOPLAST B,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+CON,CONTINENTAL AG,Consumer Discretionary,Germany,Xetra,False
+COO,COOPER INC,Health Care,United States,NASDAQ,False
+COP,CONOCOPHILLIPS,Energy,United States,New York Stock Exchange Inc.,False
+COR,CENCORA INC,Health Care,United States,New York Stock Exchange Inc.,False
+COST,COSTCO WHOLESALE CORP,Consumer Staples,United States,NASDAQ,False
+COV,COVIVIO SA,Real Estate,France,Nyse Euronext - Euronext Paris,False
+CP,CANADIAN PACIFIC KANSAS CITY LTD,Industrials,Canada,Toronto Stock Exchange,False
+CPAY,CORPAY INC,Financials,United States,New York Stock Exchange Inc.,False
+CPG,COMPASS GROUP PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,False
+CPR,DAVIDE CAMPARI MILANO NV,Consumer Staples,Italy,Borsa Italiana,False
+CPRT,COPART INC,Industrials,United States,NASDAQ,False
+CPU,COMPUTERSHARE LTD,Industrials,Australia,Asx - All Markets,False
+CRBG,COREBRIDGE FINANCIAL INC,Financials,United States,New York Stock Exchange Inc.,False
+CRCL,CIRCLE INTERNET GROUP INC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,Information Technology,United States,NASDAQ,False
+CRH,CRH PUBLIC LIMITED PLC,Materials,United States,New York Stock Exchange Inc.,False
+CRM,SALESFORCE INC,Information Technology,United States,New York Stock Exchange Inc.,False
+CRWD,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,United States,NASDAQ,False
+CRWV,COREWEAVE INC CLASS A,Information Technology,United States,NASDAQ,False
+CS,AXA SA,Financials,France,Nyse Euronext - Euronext Paris,False
+CSCO,CISCO SYSTEMS INC,Information Technology,United States,NASDAQ,False
+CSG,CSG CLASS A NV,Industrials,Netherlands,Euronext Amsterdam,False
+CSGP,COSTAR GROUP INC,Real Estate,United States,NASDAQ,False
+CSL,CARLISLE COMPANIES INC,Industrials,United States,New York Stock Exchange Inc.,False
+CSL,CSL LTD,Health Care,Australia,Asx - All Markets,True
+CSU,CONSTELLATION SOFTWARE INC,Information Technology,Canada,Toronto Stock Exchange,False
+CSX,CSX CORP,Industrials,United States,NASDAQ,False
+CTAS,CINTAS CORP,Industrials,United States,NASDAQ,False
+CTC.A,CANADIAN TIRE LTD CLASS A,Consumer Discretionary,Canada,Toronto Stock Exchange,False
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,United States,NASDAQ,False
+CTVA,CORTEVA INC,Materials,United States,New York Stock Exchange Inc.,False
+CU,CANADIAN UTILITIES LTD CLASS A,Utilities,Canada,Toronto Stock Exchange,False
+CVC,CVC CAPITAL PARTNERS PLC,Financials,Netherlands,Euronext Amsterdam,False
+CVE,CENOVUS ENERGY,Energy,Canada,Toronto Stock Exchange,False
+CVNA,CARVANA CLASS A,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+CVS,CVS HEALTH CORP,Health Care,United States,New York Stock Exchange Inc.,False
+CVX,CHEVRON CORP,Energy,United States,New York Stock Exchange Inc.,False
+CW,CURTISS WRIGHT CORP,Industrials,United States,New York Stock Exchange Inc.,False
+D,DOMINION ENERGY INC,Utilities,United States,New York Stock Exchange Inc.,False
+D05,DBS GROUP HOLDINGS LTD,Financials,Singapore,Singapore Exchange,False
+DAL,DELTA AIR LINES INC,Industrials,United States,New York Stock Exchange Inc.,False
+DANSKE,DANSKE BANK,Financials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+DASH,DOORDASH INC CLASS A,Consumer Discretionary,United States,NASDAQ,False
+DB1,DEUTSCHE BOERSE AG,Financials,Germany,Xetra,False
+DBK,DEUTSCHE BANK AG,Financials,Germany,Xetra,False
+DD,DUPONT DE NEMOURS INC,Materials,United States,New York Stock Exchange Inc.,False
+DDOG,DATADOG INC CLASS A,Information Technology,United States,NASDAQ,False
+DE,DEERE,Industrials,United States,New York Stock Exchange Inc.,False
+DECK,DECKERS OUTDOOR CORP,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,United States,New York Stock Exchange Inc.,False
+DEMANT,DEMANT,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+DG,DOLLAR GENERAL CORP,Consumer Staples,United States,New York Stock Exchange Inc.,False
+DG,VINCI SA,Industrials,France,Nyse Euronext - Euronext Paris,True
+DGE,DIAGEO PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+DGX,QUEST DIAGNOSTICS INC,Health Care,United States,New York Stock Exchange Inc.,False
+DHER,DELIVERY HERO,Consumer Discretionary,Germany,Xetra,False
+DHI,D R HORTON INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+DHL,DEUTSCHE POST AG,Industrials,Germany,Xetra,False
+DHR,DANAHER CORP,Health Care,United States,New York Stock Exchange Inc.,False
+DIE,DIETEREN (D) SA,Consumer Discretionary,Belgium,Nyse Euronext - Euronext Brussels,False
+DIM,SARTORIUS STEDIM BIOTECH SA,Health Care,France,Nyse Euronext - Euronext Paris,False
+DIS,WALT DISNEY,Communication,United States,New York Stock Exchange Inc.,False
+DKS,DICKS SPORTING INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+DLR,DIGITAL REALTY TRUST REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+DLTR,DOLLAR TREE INC,Consumer Staples,United States,NASDAQ,False
+DNB,DNB BANK,Financials,Norway,Oslo Bors Asa,False
+DOL,DOLLARAMA INC,Consumer Discretionary,Canada,Toronto Stock Exchange,False
+DOV,DOVER CORP,Industrials,United States,New York Stock Exchange Inc.,False
+DOW,DOW INC,Materials,United States,New York Stock Exchange Inc.,False
+DPZ,DOMINOS PIZZA INC,Consumer Discretionary,United States,NASDAQ,False
+DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+DSCT,ISRAEL DISCOUNT BANK LTD,Financials,Israel,Tel Aviv Stock Exchange,False
+DSFIR,DSM FIRMENICH AG,Materials,Netherlands,Euronext Amsterdam,False
+DSG,DESCARTES SYSTEMS GROUP INC,Information Technology,Canada,Toronto Stock Exchange,False
+DSV,DSV,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+DSY,DASSAULT SYSTEMES,Information Technology,France,Nyse Euronext - Euronext Paris,False
+DTE,DTE ENERGY,Utilities,United States,New York Stock Exchange Inc.,False
+DTE,DEUTSCHE TELEKOM N AG,Communication,Germany,Xetra,True
+DTG,DAIMLER TRUCK HOLDING E AG,Industrials,Germany,Xetra,False
+DUK,DUKE ENERGY CORP,Utilities,United States,New York Stock Exchange Inc.,False
+DVN,DEVON ENERGY CORP,Energy,United States,New York Stock Exchange Inc.,False
+DXCM,DEXCOM INC,Health Care,United States,NASDAQ,False
+EA,ELECTRONIC ARTS INC,Communication,United States,NASDAQ,False
+EBAY,EBAY INC,Consumer Discretionary,United States,NASDAQ,False
+EBS,ERSTE GROUP BANK AG,Financials,Austria,Wiener Boerse Ag,False
+ECHO,ECHOSTAR CORP CLASS A,Communication,United States,NASDAQ,False
+ECL,ECOLAB INC,Materials,United States,New York Stock Exchange Inc.,False
+ED,CONSOLIDATED EDISON INC,Utilities,United States,New York Stock Exchange Inc.,False
+EDP,EDP ENERGIAS DE PORTUGAL SA,Utilities,Portugal,Nyse Euronext - Euronext Lisbon,False
+EDPR,EDP RENEWABLES SA,Utilities,Portugal,Nyse Euronext - Euronext Lisbon,False
+EDV,ENDEAVOUR MINING,Materials,United Kingdom,London Stock Exchange,False
+EFN,ELEMENT FLEET MANAGEMENT CORP,Industrials,Canada,Toronto Stock Exchange,False
+EFX,EQUIFAX INC,Industrials,United States,New York Stock Exchange Inc.,False
+EG,EVEREST GROUP LTD,Financials,United States,New York Stock Exchange Inc.,False
+EIX,EDISON INTERNATIONAL,Utilities,United States,New York Stock Exchange Inc.,False
+EL,ESTEE LAUDER INC CLASS A,Consumer Staples,United States,New York Stock Exchange Inc.,False
+EL,ESSILORLUXOTTICA SA,Health Care,France,Nyse Euronext - Euronext Paris,True
+ELE,ENDESA SA,Utilities,Spain,Bolsa De Madrid,False
+ELI,ELIA GROUP SA,Utilities,Belgium,Nyse Euronext - Euronext Brussels,False
+ELISA,ELISA,Communication,Finland,Nasdaq Omx Helsinki Ltd.,False
+ELV,ELEVANCE HEALTH INC,Health Care,United States,New York Stock Exchange Inc.,False
+EMA,EMERA INC,Utilities,Canada,Toronto Stock Exchange,False
+EME,EMCOR GROUP INC,Industrials,United States,New York Stock Exchange Inc.,False
+EMP.A,EMPIRE LTD CLASS A,Consumer Staples,Canada,Toronto Stock Exchange,False
+EMR,EMERSON ELECTRIC,Industrials,United States,New York Stock Exchange Inc.,False
+EMSN,EMS-CHEMIE HOLDING AG,Materials,Switzerland,SIX Swiss Exchange,False
+EN,BOUYGUES SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+ENB,ENBRIDGE INC,Energy,Canada,Toronto Stock Exchange,False
+ENEL,ENEL,Utilities,Italy,Borsa Italiana,False
+ENGI,ENGIE SA,Utilities,France,Nyse Euronext - Euronext Paris,False
+ENI,ENI,Energy,Italy,Borsa Italiana,False
+ENLT,ENLIGHT RENEWABLE ENERGY LTD,Utilities,Israel,Tel Aviv Stock Exchange,False
+ENR,SIEMENS ENERGY N AG,Industrials,Germany,Xetra,False
+ENTG,ENTEGRIS INC,Information Technology,United States,NASDAQ,False
+ENX,EURONEXT NV,Financials,France,Nyse Euronext - Euronext Paris,False
+EOAN,E.ON N,Utilities,Germany,Xetra,False
+EOG,EOG RESOURCES INC,Energy,United States,New York Stock Exchange Inc.,False
+EPI A,EPIROC CLASS A,Industrials,Sweden,Nasdaq Omx Nordic,False
+EPI B,EPIROC CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+EQIX,EQUINIX REIT INC,Real Estate,United States,NASDAQ,False
+EQNR,EQUINOR,Energy,Norway,Oslo Bors Asa,False
+EQR,EQUITY RESIDENTIAL REIT,Real Estate,United States,New York Stock Exchange Inc.,False
+EQT,EQT CORP,Energy,United States,New York Stock Exchange Inc.,False
+EQT,EQT,Financials,Sweden,Nasdaq Omx Nordic,True
+EQX,EQUINOX GOLD CORP,Materials,Canada,Toronto Stock Exchange,False
+ERF,EUROFINS SCIENTIFIC,Health Care,France,Nyse Euronext - Euronext Paris,False
+ERIC B,ERICSSON B,Information Technology,Sweden,Nasdaq Omx Nordic,False
+ERIE,ERIE INDEMNITY CLASS A,Financials,United States,NASDAQ,False
+ES,EVERSOURCE ENERGY,Utilities,United States,New York Stock Exchange Inc.,False
+ESLT,ELBIT SYSTEMS LTD,Industrials,Israel,Tel Aviv Stock Exchange,False
+ESS,ESSEX PROPERTY TRUST REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+ESSITY B,ESSITY CLASS B,Consumer Staples,Sweden,Nasdaq Omx Nordic,False
+ETN,EATON PLC,Industrials,United States,New York Stock Exchange Inc.,False
+ETR,ENTERGY CORP,Utilities,United States,New York Stock Exchange Inc.,False
+EVD,CTS EVENTIM AG,Communication,Germany,Xetra,False
+EVK,EVONIK INDUSTRIES AG,Materials,Germany,Xetra,False
+EVN,EVOLUTION MINING LTD,Materials,Australia,Asx - All Markets,False
+EVO,EVOLUTION,Consumer Discretionary,Sweden,Nasdaq Omx Nordic,False
+EVRG,EVERGY INC,Utilities,United States,NASDAQ,False
+EW,EDWARDS LIFESCIENCES CORP,Health Care,United States,New York Stock Exchange Inc.,False
+EXC,EXELON CORP,Utilities,United States,NASDAQ,False
+EXE,EXPAND ENERGY CORP,Energy,United States,NASDAQ,False
+EXO,EXOR NV,Financials,Netherlands,Euronext Amsterdam,False
+EXPD,EXPEDITORS INTERNATIONAL OF WASHIN,Industrials,United States,New York Stock Exchange Inc.,False
+EXPE,EXPEDIA GROUP INC,Consumer Discretionary,United States,NASDAQ,False
+EXPN,EXPERIAN PLC,Industrials,United Kingdom,London Stock Exchange,False
+EXR,EXTRA SPACE STORAGE REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+F,FORD MOTOR CO,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+F34,WILMAR INTERNATIONAL LTD,Consumer Staples,Singapore,Singapore Exchange,False
+FANG,DIAMONDBACK ENERGY INC,Energy,United States,NASDAQ,False
+FAST,FASTENAL,Industrials,United States,NASDAQ,False
+FBK,FINECOBANK BANCA FINECO,Financials,Italy,Borsa Italiana,False
+FCNCA,FIRST CITIZENS BANCSHARES INC CLAS,Financials,United States,NASDAQ,False
+FCX,FREEPORT MCMORAN INC,Materials,United States,New York Stock Exchange Inc.,False
+FDX,FEDEX CORP,Industrials,United States,New York Stock Exchange Inc.,False
+FDXF,FEDEX FREIGHT HOLDING COMPANY INC,Industrials,United States,New York Stock Exchange Inc.,False
+FE,FIRSTENERGY CORP,Utilities,United States,New York Stock Exchange Inc.,False
+FER,FERROVIAL NV,Industrials,Spain,Bolsa De Madrid,False
+FERG,FERGUSON ENTERPRISES INC,Industrials,United States,New York Stock Exchange Inc.,False
+FFH,FAIRFAX FINANCIAL HOLDINGS SUB VOT,Financials,Canada,Toronto Stock Exchange,False
+FFIV,F5 INC,Information Technology,United States,NASDAQ,False
+FGR,EIFFAGE SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+FICO,FAIR ISAAC CORP,Information Technology,United States,New York Stock Exchange Inc.,False
+FIS,FIDELITY NATIONAL INFORMATION SERV,Financials,United States,New York Stock Exchange Inc.,False
+FISV,FISERV INC,Financials,United States,NASDAQ,False
+FITB,FIFTH THIRD BANCORP,Financials,United States,New York Stock Exchange Inc.,False
+FIX,COMFORT SYSTEMS USA INC,Industrials,United States,New York Stock Exchange Inc.,False
+FLEX,FLEX LTD,Information Technology,United States,NASDAQ,False
+FLUT,FLUTTER ENTERTAINMENT PLC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+FM,FIRST QUANTUM MINERALS LTD,Materials,Canada,Toronto Stock Exchange,False
+FME,FRESENIUS MEDICAL CARE AG,Health Care,Germany,Xetra,False
+FMG,FORTESCUE LTD,Materials,Australia,Asx - All Markets,False
+FN,FABRINET,Information Technology,United States,New York Stock Exchange Inc.,False
+FNF,FIDELITY NATIONAL FINANCIAL INC,Financials,United States,New York Stock Exchange Inc.,False
+FNV,FRANCO NEVADA CORP,Materials,Canada,Toronto Stock Exchange,False
+FORTUM,FORTUM,Utilities,Finland,Nasdaq Omx Helsinki Ltd.,False
+FOX,FOX CORP CLASS B,Communication,United States,NASDAQ,False
+FOXA,FOX CORP CLASS A,Communication,United States,NASDAQ,False
+FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Health Care,New Zealand,New Zealand Exchange Ltd,False
+FRE,FRESENIUS SE AND CO KGAA,Health Care,Germany,Xetra,False
+FRES,FRESNILLO PLC,Materials,United Kingdom,London Stock Exchange,False
+FSLR,FIRST SOLAR INC,Information Technology,United States,NASDAQ,False
+FSV,FIRSTSERVICE SUBORDINATE VOTING CO,Real Estate,Canada,Toronto Stock Exchange,False
+FTAI,FTAI AVIATION LTD,Industrials,United States,NASDAQ,False
+FTI,TECHNIPFMC PLC,Energy,United States,New York Stock Exchange Inc.,False
+FTNT,FORTINET INC,Information Technology,United States,NASDAQ,False
+FTS,FORTIS INC,Utilities,Canada,Toronto Stock Exchange,False
+FTV,FORTIVE CORP,Industrials,United States,New York Stock Exchange Inc.,False
+FUTU,FUTU HOLDINGS ADR LTD,Financials,Hong Kong,NASDAQ,False
+FWONK,LIBERTY MEDIA FORMULA ONE SERIES C,Communication,United States,NASDAQ,False
+G,ASSICURAZIONI GENERALI,Financials,Italy,Borsa Italiana,False
+G1A,GEA GROUP AG,Industrials,Germany,Xetra,False
+G24,SCOUT24 N,Communication,Germany,Xetra,False
+GALD,GALDERMA GROUP N AG,Health Care,Switzerland,SIX Swiss Exchange,False
+GALP,GALP ENERGIA SGPS SA CLASS B,Energy,Portugal,Nyse Euronext - Euronext Lisbon,False
+GBLB,GROUPE BRUXELLES LAMBERT NV,Financials,Belgium,Nyse Euronext - Euronext Brussels,False
+GD,GENERAL DYNAMICS CORP,Industrials,United States,New York Stock Exchange Inc.,False
+GE,GE AEROSPACE,Industrials,United States,New York Stock Exchange Inc.,False
+GEBN,GEBERIT AG,Industrials,Switzerland,SIX Swiss Exchange,False
+GEHC,GE HEALTHCARE TECHNOLOGIES INC,Health Care,United States,NASDAQ,False
+GEN,GEN DIGITAL INC,Information Technology,United States,NASDAQ,False
+GET,GETLINK,Industrials,France,Nyse Euronext - Euronext Paris,False
+GEV,GE VERNOVA INC,Industrials,United States,New York Stock Exchange Inc.,False
+GFC,GECINA SA,Real Estate,France,Nyse Euronext - Euronext Paris,False
+GFL,GFL ENVIRONMENTAL SUBORDINATE VOTI,Industrials,Canada,Toronto Stock Exchange,False
+GGG,GRACO INC,Industrials,United States,New York Stock Exchange Inc.,False
+GIB.A,CGI INC CLASS A,Information Technology,Canada,Toronto Stock Exchange,False
+GIL,GILDAN ACTIVEWEAR INC,Consumer Discretionary,Canada,Toronto Stock Exchange,False
+GILD,GILEAD SCIENCES INC,Health Care,United States,NASDAQ,False
+GIS,GENERAL MILLS INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+GIVN,GIVAUDAN SA,Materials,Switzerland,SIX Swiss Exchange,False
+GJF,GJENSIDIGE FORSIKRING,Financials,Norway,Oslo Bors Asa,False
+GLE,SOCIETE GENERALE SA,Financials,France,Nyse Euronext - Euronext Paris,False
+GLEN,GLENCORE PLC,Materials,United Kingdom,London Stock Exchange,False
+GLPI,GAMING AND LEISURE PROPERTIES REIT,Real Estate,United States,NASDAQ,False
+GLW,CORNING INC,Information Technology,United States,New York Stock Exchange Inc.,False
+GM,GENERAL MOTORS,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+GMAB,GENMAB,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+GMG,GOODMAN GROUP UNITS,Real Estate,Australia,Asx - All Markets,False
+GOOG,ALPHABET INC CLASS C,Communication,United States,NASDAQ,False
+GOOGL,ALPHABET INC CLASS A,Communication,United States,NASDAQ,False
+GPC,GENUINE PARTS,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+GPN,GLOBAL PAYMENTS INC,Financials,United States,New York Stock Exchange Inc.,False
+GRAB,GRAB HOLDINGS LTD CLASS A,Industrials,Singapore,NASDAQ,False
+GRMN,GARMIN LTD,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+GS,GOLDMAN SACHS GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+GSK,GLAXOSMITHKLINE,Health Care,United Kingdom,London Stock Exchange,False
+GWO,GREAT WEST LIFECO INC,Financials,Canada,Toronto Stock Exchange,False
+GWW,WW GRAINGER INC,Industrials,United States,New York Stock Exchange Inc.,False
+H,HYATT HOTELS CORP CLASS A,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+H,HYDRO ONE LTD,Utilities,Canada,Toronto Stock Exchange,True
+H78,HONGKONG LAND HOLDINGS LTD,Real Estate,Hong Kong,Singapore Exchange,False
+HAG,HENSOLDT AG,Industrials,Germany,Xetra,False
+HAL,HALLIBURTON,Energy,United States,New York Stock Exchange Inc.,False
+HBAN,HUNTINGTON BANCSHARES INC,Financials,United States,NASDAQ,False
+HBAN,HELVETIA BALOISE HOLDING N AG,Financials,Switzerland,SIX Swiss Exchange,True
+HCA,HCA HEALTHCARE INC,Health Care,United States,New York Stock Exchange Inc.,False
+HD,HOME DEPOT INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+HEI,HEICO CORP,Industrials,United States,New York Stock Exchange Inc.,False
+HEI,HEIDELBERG MATERIALS AG,Materials,Germany,Xetra,True
+HEIA,HEICO CORP CLASS A,Industrials,United States,New York Stock Exchange Inc.,False
+HEIA,HEINEKEN NV,Consumer Staples,Netherlands,Euronext Amsterdam,True
+HEIO,HEINEKEN HOLDING NV,Consumer Staples,Netherlands,Euronext Amsterdam,False
+HEN,HENKEL AG,Consumer Staples,Germany,Xetra,False
+HEN3,HENKEL & KGAA PREF AG,Consumer Staples,Germany,Xetra,False
+HEXA B,HEXAGON CLASS B,Information Technology,Sweden,Nasdaq Omx Nordic,False
+HIG,HARTFORD INSURANCE GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+HLMA,HALMA PLC,Information Technology,United Kingdom,London Stock Exchange,False
+HLN,HALEON PLC,Health Care,United Kingdom,London Stock Exchange,False
+HLT,HILTON WORLDWIDE HOLDINGS INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+HM B,HENNES & MAURITZ,Consumer Discretionary,Sweden,Nasdaq Omx Nordic,False
+HNR1,HANNOVER RUECK,Financials,Germany,Xetra,False
+HO,THALES SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+HOLN,HOLCIM LTD AG,Materials,Switzerland,SIX Swiss Exchange,False
+HOLX,HOLOGIC INC,Health Care,United States,NO MARKET (E.G. UNLISTED),False
+HON,HONEYWELL INTERNATIONAL INC,Industrials,United States,NASDAQ,False
+HONA,HONEYWELL AEROSPACE INC,Industrials,United States,NASDAQ,False
+HOOD,ROBINHOOD MARKETS INC CLASS A,Financials,United States,NASDAQ,False
+HOT,HOCHTIEF AG,Industrials,Germany,Xetra,False
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,United States,New York Stock Exchange Inc.,False
+HPQ,HP INC,Information Technology,United States,New York Stock Exchange Inc.,False
+HSBA,HSBC HOLDINGS PLC,Financials,United Kingdom,London Stock Exchange,False
+HSY,HERSHEY FOODS,Consumer Staples,United States,New York Stock Exchange Inc.,False
+HUBB,HUBBELL INC,Industrials,United States,New York Stock Exchange Inc.,False
+HUM,HUMANA INC,Health Care,United States,New York Stock Exchange Inc.,False
+HWM,HOWMET AEROSPACE INC,Industrials,United States,New York Stock Exchange Inc.,False
+IAG,INSURANCE AUSTRALIA GROUP LTD,Financials,Australia,Asx - All Markets,True
+IAG,IA FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,True
+IAG,INTERNATIONAL AIRLINES GROUP SA,Industrials,Spain,Bolsa De Madrid,True
+IBE,IBERDROLA SA,Utilities,Spain,Bolsa De Madrid,False
+IBE.D,DERECHOS IBERDROLA S.A. SA,Utilities,Spain,Bolsa De Madrid,False
+IBKR,INTERACTIVE BROKERS GROUP INC CLAS,Financials,United States,NASDAQ,False
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Information Technology,United States,New York Stock Exchange Inc.,False
+ICE,INTERCONTINENTAL EXCHANGE INC,Financials,United States,New York Stock Exchange Inc.,False
+ICL,ICL GROUP LTD,Materials,Israel,Tel Aviv Stock Exchange,False
+IDR,INDRA SISTEMAS SA,Information Technology,Spain,Bolsa De Madrid,False
+IDXX,IDEXX LABORATORIES INC,Health Care,United States,NASDAQ,False
+IEX,IDEX CORP,Industrials,United States,New York Stock Exchange Inc.,False
+IFC,INTACT FINANCIAL CORP,Financials,Canada,Toronto Stock Exchange,False
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES,Materials,United States,New York Stock Exchange Inc.,False
+IFT,INFRATIL LTD,Financials,New Zealand,New Zealand Exchange Ltd,False
+IFX,INFINEON TECHNOLOGIES AG,Information Technology,Germany,Xetra,False
+IG,ITALGAS,Utilities,Italy,Borsa Italiana,False
+IGM,IGM FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,False
+IHG,INTERCONTINENTAL HOTELS GROUP PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,False
+III,3I GROUP PLC,Financials,United Kingdom,London Stock Exchange,False
+ILMN,ILLUMINA INC,Health Care,United States,NASDAQ,False
+IMB,IMPERIAL BRANDS PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+IMO,IMPERIAL OIL LTD,Energy,Canada,Toronto Stock Exchange,False
+INCY,INCYTE CORP,Health Care,United States,NASDAQ,False
+INDT,INDUTRADE,Industrials,Sweden,Nasdaq Omx Nordic,False
+INDU A,INDUSTRIVARDEN A,Financials,Sweden,Nasdaq Omx Nordic,False
+INDU C,INDUSTRIVARDEN SERIES,Financials,Sweden,Nasdaq Omx Nordic,False
+INF,INFORMA PLC,Communication,United Kingdom,London Stock Exchange,False
+INGA,ING GROEP NV,Financials,Netherlands,Euronext Amsterdam,False
+INPST,INPOST SA,Industrials,Netherlands,Euronext Amsterdam,False
+INSM,INSMED INC,Health Care,United States,NASDAQ,False
+INTC,INTEL CORPORATION,Information Technology,United States,NASDAQ,False
+INTU,INTUIT INC,Information Technology,United States,NASDAQ,False
+INVE B,INVESTOR CLASS B,Financials,Sweden,Nasdaq Omx Nordic,False
+INVH,INVITATION HOMES INC,Real Estate,United States,New York Stock Exchange Inc.,False
+IONQ,IONQ INC,Information Technology,United States,New York Stock Exchange Inc.,False
+IOT,SAMSARA INC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+IP,INTERNATIONAL PAPER,Materials,United States,New York Stock Exchange Inc.,False
+IPN,IPSEN SA,Health Care,France,Nyse Euronext - Euronext Paris,False
+IQV,IQVIA HOLDINGS INC,Health Care,United States,New York Stock Exchange Inc.,False
+IR,INGERSOLL RAND INC,Industrials,United States,New York Stock Exchange Inc.,False
+IREN,IREN LTD,Information Technology,United States,NASDAQ,False
+IRM,IRON MOUNTAIN INC,Real Estate,United States,New York Stock Exchange Inc.,False
+ISP,INTESA SANPAOLO,Financials,Italy,Borsa Italiana,False
+ISRG,INTUITIVE SURGICAL INC,Health Care,United States,NASDAQ,False
+ITRK,INTERTEK GROUP PLC,Industrials,United Kingdom,London Stock Exchange,False
+ITW,ILLINOIS TOOL INC,Industrials,United States,New York Stock Exchange Inc.,False
+ITX,INDUSTRIA DE DISENO TEXTIL SA,Consumer Discretionary,Spain,Bolsa De Madrid,False
+IVN,IVANHOE MINES LTD CLASS A,Materials,Canada,Toronto Stock Exchange,False
+J,JACOBS SOLUTIONS INC,Industrials,United States,New York Stock Exchange Inc.,False
+J36,JARDINE MATHESON HOLDINGS LTD,Industrials,Hong Kong,Singapore Exchange,False
+JBHT,JB HUNT TRANSPORT SERVICES INC,Industrials,United States,NASDAQ,False
+JBL,JABIL INC,Information Technology,United States,New York Stock Exchange Inc.,False
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,United States,New York Stock Exchange Inc.,False
+JMT,JERONIMO MARTINS SA,Consumer Staples,Portugal,Nyse Euronext - Euronext Lisbon,False
+JNJ,JOHNSON & JOHNSON,Health Care,United States,New York Stock Exchange Inc.,False
+JPM,JPMORGAN CHASE & CO,Financials,United States,New York Stock Exchange Inc.,False
+K,KINROSS GOLD CORP,Materials,Canada,Toronto Stock Exchange,False
+KBC,KBC GROEP,Financials,Belgium,Nyse Euronext - Euronext Brussels,False
+KBX,KNORR BREMSE AG,Industrials,Germany,Xetra,False
+KDP,KEURIG DR PEPPER INC,Consumer Staples,United States,NASDAQ,False
+KER,KERING SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+KESKOB,KESKO CLASS B,Consumer Staples,Finland,Nasdaq Omx Helsinki Ltd.,False
+KEY,KEYCORP,Financials,United States,New York Stock Exchange Inc.,False
+KEY,KEYERA CORP,Energy,Canada,Toronto Stock Exchange,True
+KEYS,KEYSIGHT TECHNOLOGIES INC,Information Technology,United States,New York Stock Exchange Inc.,False
+KGF,KINGFISHER PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,False
+KHC,KRAFT HEINZ,Consumer Staples,United States,NASDAQ,False
+KIM,KIMCO REALTY REIT CORP,Real Estate,United States,New York Stock Exchange Inc.,False
+KKR,KKR AND CO INC,Financials,United States,New York Stock Exchange Inc.,False
+KLAC,KLA CORP,Information Technology,United States,NASDAQ,False
+KMB,KIMBERLY CLARK CORP,Consumer Staples,United States,NASDAQ,False
+KMI,KINDER MORGAN INC,Energy,United States,New York Stock Exchange Inc.,False
+KNEBV,KONE,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,False
+KNIN,KUEHNE UND NAGEL INTERNATIONAL AG,Industrials,Switzerland,SIX Swiss Exchange,False
+KO,COCA-COLA,Consumer Staples,United States,New York Stock Exchange Inc.,False
+KOG,KONGSBERG GRUPPEN,Industrials,Norway,Oslo Bors Asa,False
+KPN,KONINKLIJKE KPN NV,Communication,Netherlands,Euronext Amsterdam,False
+KR,KROGER,Consumer Staples,United States,New York Stock Exchange Inc.,False
+KRX,KINGSPAN GROUP PLC,Industrials,Ireland,Irish Stock Exchange - All Market,False
+KRZ,KERRY GROUP PLC,Consumer Staples,Ireland,Irish Stock Exchange - All Market,False
+KVUE,KENVUE INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+L,LOEWS CORP,Financials,United States,New York Stock Exchange Inc.,False
+L,LOBLAW COMPANIES LTD,Consumer Staples,Canada,Toronto Stock Exchange,True
+LAND,LAND SECURITIES GROUP REIT PLC,Real Estate,United Kingdom,London Stock Exchange,False
+LATO B,LATOUR INVESTMENT CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+LDO,LEONARDO FINMECCANICA SPA,Industrials,Italy,Borsa Italiana,False
+LDOS,LEIDOS HOLDINGS INC,Industrials,United States,New York Stock Exchange Inc.,False
+LEN,LENNAR A CORP CLASS A,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+LGEN,LEGAL AND GENERAL GROUP PLC,Financials,United Kingdom,London Stock Exchange,False
+LH,LABCORP HOLDINGS INC,Health Care,United States,New York Stock Exchange Inc.,False
+LHA,DEUTSCHE LUFTHANSA AG,Industrials,Germany,Xetra,False
+LHX,L3HARRIS TECHNOLOGIES INC,Industrials,United States,New York Stock Exchange Inc.,False
+LI,KLEPIERRE REIT SA,Real Estate,France,Nyse Euronext - Euronext Paris,False
+LIFCO B,LIFCO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+LII,LENNOX INTERNATIONAL INC,Industrials,United States,New York Stock Exchange Inc.,False
+LIN,LINDE PLC,Materials,United States,NASDAQ,False
+LISN,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Consumer Staples,Switzerland,SIX Swiss Exchange,False
+LISP,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Consumer Staples,Switzerland,SIX Swiss Exchange,False
+LITE,LUMENTUM HOLDINGS INC,Information Technology,United States,NASDAQ,False
+LLOY,LLOYDS BANKING GROUP PLC,Financials,United Kingdom,London Stock Exchange,False
+LLY,ELI LILLY,Health Care,United States,New York Stock Exchange Inc.,False
+LMT,LOCKHEED MARTIN CORP,Industrials,United States,New York Stock Exchange Inc.,False
+LNG,CHENIERE ENERGY INC,Energy,United States,New York Stock Exchange Inc.,False
+LNT,ALLIANT ENERGY CORP,Utilities,United States,NASDAQ,False
+LOGN,LOGITECH INTERNATIONAL SA,Information Technology,Switzerland,SIX Swiss Exchange,False
+LONN,LONZA GROUP AG,Health Care,Switzerland,SIX Swiss Exchange,False
+LOTB,LOTUS BAKERIES NV,Consumer Staples,Belgium,Nyse Euronext - Euronext Brussels,False
+LOW,LOWES COMPANIES INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+LPLA,LPL FINANCIAL HOLDINGS INC,Financials,United States,NASDAQ,False
+LR,LEGRAND SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+LRCX,LAM RESEARCH CORP,Information Technology,United States,NASDAQ,False
+LSEG,LONDON STOCK EXCHANGE GROUP PLC,Financials,United Kingdom,London Stock Exchange,False
+LUG,LUNDIN GOLD INC,Materials,Canada,Toronto Stock Exchange,False
+LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,United States,NASDAQ,False
+LUMI,BANK LEUMI LE ISRAEL,Financials,Israel,Tel Aviv Stock Exchange,False
+LUN,LUNDIN MINING CORP,Materials,Canada,Toronto Stock Exchange,False
+LUND B,LUNDBERGFORETAGEN CLASS B,Financials,Sweden,Nasdaq Omx Nordic,False
+LVS,LAS VEGAS SANDS CORP,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+LYB,LYONDELLBASELL INDUSTRIES CLASS A,Materials,United States,New York Stock Exchange Inc.,False
+LYC,LYNAS RARE EARTHS LTD,Materials,Australia,Asx - All Markets,False
+LYV,LIVE NATION ENTERTAINMENT INC,Communication,United States,New York Stock Exchange Inc.,False
+MA,MASTERCARD INC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+MAA,MID AMERICA APARTMENT COMMUNITIES,Real Estate,United States,New York Stock Exchange Inc.,False
+MAERSK A,A P MOLLER MAERSK,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+MAERSK B,A P MOLLER MAERSK B,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+MAP,MAPFRE SA,Financials,Spain,Bolsa De Madrid,False
+MAR,MARRIOTT INTERNATIONAL INC CLASS A,Consumer Discretionary,United States,NASDAQ,False
+MAS,MASCO CORP,Industrials,United States,New York Stock Exchange Inc.,False
+MBG,MERCEDES-BENZ GROUP N AG,Consumer Discretionary,Germany,Xetra,False
+MBGL,MOBILITY GLOBAL INC,Industrials,United States,New York Stock Exchange Inc.,False
+MC,LVMH,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+MCD,MCDONALDS CORP,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,United States,NASDAQ,False
+MCK,MCKESSON CORP,Health Care,United States,New York Stock Exchange Inc.,False
+MCO,MOODYS CORP,Financials,United States,New York Stock Exchange Inc.,False
+MDB,MONGODB INC CLASS A,Information Technology,United States,NASDAQ,False
+MDLN,MEDLINE INC CLASS A,Health Care,United States,NASDAQ,False
+MDLZ,MONDELEZ INTERNATIONAL INC CLASS A,Consumer Staples,United States,NASDAQ,False
+MDT,MEDTRONIC PLC,Health Care,United States,New York Stock Exchange Inc.,False
+MEL,MERIDIAN ENERGY LTD,Utilities,New Zealand,New Zealand Exchange Ltd,False
+MELI,MERCADOLIBRE INC,Consumer Discretionary,United States,NASDAQ,False
+MET,METLIFE INC,Financials,United States,New York Stock Exchange Inc.,False
+META,META PLATFORMS INC CLASS A,Communication,United States,NASDAQ,False
+METSO,METSO CORPORATION,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,False
+MFC,MANULIFE FINANCIAL CORP,Financials,Canada,Toronto Stock Exchange,False
+MG,MAGNA INTERNATIONAL INC,Consumer Discretionary,Canada,Toronto Stock Exchange,False
+MICC,MAGNUM ICE CREAM NV,Consumer Staples,Netherlands,Euronext Amsterdam,False
+MKC,MCCORMICK & CO NON-VOTING INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+MKL,MARKEL GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+MKS,MARKS AND SPENCER GROUP PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+ML,MICHELIN,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+MLM,MARTIN MARIETTA MATERIALS INC,Materials,United States,New York Stock Exchange Inc.,False
+MMM,3M,Industrials,United States,New York Stock Exchange Inc.,False
+MNG,M&G PLC,Financials,United Kingdom,London Stock Exchange,False
+MNST,MONSTER BEVERAGE CORP,Consumer Staples,United States,NASDAQ,False
+MO,ALTRIA GROUP INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+MONC,MONCLER,Consumer Discretionary,Italy,Borsa Italiana,False
+MOWI,MOWI,Consumer Staples,Norway,Oslo Bors Asa,False
+MPC,MARATHON PETROLEUM CORP,Energy,United States,New York Stock Exchange Inc.,False
+MPL,MEDIBANK PRIVATE LTD,Financials,Australia,Asx - All Markets,False
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,United States,NASDAQ,False
+MQG,MACQUARIE GROUP LTD DEF,Financials,Australia,Asx - All Markets,False
+MRK,MERCK & CO INC,Health Care,United States,New York Stock Exchange Inc.,False
+MRK,MERCK,Health Care,Germany,Xetra,True
+MRO,MELROSE INDUSTRIES PLC,Industrials,United Kingdom,London Stock Exchange,False
+MRSH,MARSH INC,Financials,United States,New York Stock Exchange Inc.,False
+MRU,METRO INC,Consumer Staples,Canada,Toronto Stock Exchange,False
+MRVL,MARVELL TECHNOLOGY INC,Information Technology,United States,NASDAQ,False
+MS,MORGAN STANLEY,Financials,United States,New York Stock Exchange Inc.,False
+MSCI,MSCI INC,Financials,United States,New York Stock Exchange Inc.,False
+MSFT,MICROSOFT CORP,Information Technology,United States,NASDAQ,False
+MSI,MOTOROLA SOLUTIONS INC,Information Technology,United States,New York Stock Exchange Inc.,False
+MSTR,STRATEGY INC CLASS A,Information Technology,United States,NASDAQ,False
+MT,ARCELORMITTAL SA,Materials,France,Euronext Amsterdam,False
+MTB,M&T BANK CORP,Financials,United States,New York Stock Exchange Inc.,False
+MTD,METTLER TOLEDO INC,Health Care,United States,New York Stock Exchange Inc.,False
+MTX,MTU AERO ENGINES HOLDING AG,Industrials,Germany,Xetra,False
+MTZ,MASTEC INC,Industrials,United States,New York Stock Exchange Inc.,False
+MU,MICRON TECHNOLOGY INC,Information Technology,United States,NASDAQ,False
+MUV2,MUENCHENER RUECKVERSICHERUNGS-GESE,Financials,Germany,Xetra,False
+MZTF,MIZRAHI TEFAHOT BANK LTD,Financials,Israel,Tel Aviv Stock Exchange,False
+NA,NATIONAL BANK OF CANADA,Financials,Canada,Toronto Stock Exchange,False
+NAB,NATIONAL AUSTRALIA BANK LTD,Financials,Australia,Asx - All Markets,False
+NBIS,NEBIUS NV CLASS A,Information Technology,Netherlands,NASDAQ,False
+NBIX,NEUROCRINE BIOSCIENCES INC,Health Care,United States,NASDAQ,False
+NDA FI,NORDEA BANK,Financials,Finland,Nasdaq Omx Helsinki Ltd.,False
+NDAQ,NASDAQ INC,Financials,United States,NASDAQ,False
+NDSN,NORDSON CORP,Industrials,United States,NASDAQ,False
+NEE,NEXTERA ENERGY INC,Utilities,United States,New York Stock Exchange Inc.,False
+NEM,NEWMONT,Materials,United States,New York Stock Exchange Inc.,False
+NEM,NEMETSCHEK,Information Technology,Germany,Xetra,True
+NESN,NESTLE SA,Consumer Staples,Switzerland,SIX Swiss Exchange,False
+NESTE,NESTE,Energy,Finland,Nasdaq Omx Helsinki Ltd.,False
+NET,CLOUDFLARE INC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+NFLX,NETFLIX INC,Communication,United States,NASDAQ,False
+NG.,NATIONAL GRID PLC,Utilities,United Kingdom,London Stock Exchange,False
+NHY,NORSK HYDRO,Materials,Norway,Oslo Bors Asa,False
+NI,NISOURCE INC,Utilities,United States,New York Stock Exchange Inc.,False
+NIBE B,NIBE INDUSTRIER CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+NKE,NIKE INC CLASS B,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+NLY,ANNALY CAPITAL MANAGEMENT REIT INC,Financials,United States,New York Stock Exchange Inc.,False
+NN,NN GROUP NV,Financials,Netherlands,Euronext Amsterdam,False
+NOC,NORTHROP GRUMMAN CORP,Industrials,United States,New York Stock Exchange Inc.,False
+NOKIA,NOKIA,Information Technology,Finland,Nasdaq Omx Helsinki Ltd.,False
+NOVN,NOVARTIS AG,Health Care,Switzerland,SIX Swiss Exchange,False
+NOVO B,NOVO NORDISK CLASS B,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+NOW,SERVICENOW INC,Information Technology,United States,New York Stock Exchange Inc.,False
+NRG,NRG ENERGY INC,Utilities,United States,New York Stock Exchange Inc.,False
+NSC,NORFOLK SOUTHERN CORP,Industrials,United States,New York Stock Exchange Inc.,False
+NSIS B,NOVOZYMES B,Materials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+NST,NORTHERN STAR RESOURCES LTD,Materials,Australia,Asx - All Markets,False
+NTAP,NETAPP INC,Information Technology,United States,NASDAQ,False
+NTGY,NATURGY ENERGY GROUP SA,Utilities,Spain,Bolsa De Madrid,False
+NTR,NUTRIEN LTD,Materials,Canada,Toronto Stock Exchange,False
+NTRA,NATERA INC,Health Care,United States,NASDAQ,False
+NTRS,NORTHERN TRUST CORP,Financials,United States,NASDAQ,False
+NUE,NUCOR CORP,Materials,United States,New York Stock Exchange Inc.,False
+NVDA,NVIDIA CORP,Information Technology,United States,NASDAQ,False
+NVMI,NOVA LTD,Information Technology,Israel,Tel Aviv Stock Exchange,False
+NVR,NVR INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+NWG,NATWEST GROUP PLC,Financials,United Kingdom,London Stock Exchange,False
+NWSA,NEWS CORP CLASS A,Communication,United States,NASDAQ,False
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,United States,NASDAQ,False
+NXT,NEXT PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,False
+O,REALTY INCOME REIT CORP,Real Estate,United States,New York Stock Exchange Inc.,False
+O39,OVERSEA-CHINESE BANKING LTD,Financials,Singapore,Singapore Exchange,False
+OCTV SDB,OCTAVE INTELLIGENCE SDR PLC,Information Technology,Sweden,Nasdaq Omx Nordic,False
+ODFL,OLD DOMINION FREIGHT LINE INC,Industrials,United States,NASDAQ,False
+OKE,ONEOK INC,Energy,United States,New York Stock Exchange Inc.,False
+OKTA,OKTA INC CLASS A,Information Technology,United States,NASDAQ,False
+OMC,OMNICOM GROUP INC,Communication,United States,New York Stock Exchange Inc.,False
+OMV,OMV AG,Energy,Austria,Wiener Boerse Ag,False
+ON,ON SEMICONDUCTOR CORP,Information Technology,United States,NASDAQ,False
+OR,LOREAL SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,False
+ORA,ORANGE SA,Communication,France,Nyse Euronext - Euronext Paris,False
+ORCL,ORACLE CORP,Information Technology,United States,New York Stock Exchange Inc.,False
+ORG,ORIGIN ENERGY LTD,Utilities,Australia,Asx - All Markets,False
+ORK,ORKLA,Consumer Staples,Norway,Oslo Bors Asa,False
+ORLY,OREILLY AUTOMOTIVE INC,Consumer Discretionary,United States,NASDAQ,False
+ORNBV,ORION CLASS B,Health Care,Finland,Nasdaq Omx Helsinki Ltd.,False
+ORSTED,ORSTED A/S,Utilities,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+OTIS,OTIS WORLDWIDE CORP,Industrials,United States,New York Stock Exchange Inc.,False
+OXY,OCCIDENTAL PETROLEUM CORP,Energy,United States,New York Stock Exchange Inc.,False
+P,EVERPURE INC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+P911,DR ING HC F PORSCHE PRF AG,Consumer Discretionary,Germany,Xetra,False
+PAAS,PAN AMERICAN SILVER CORP,Materials,Canada,Toronto Stock Exchange,False
+PAH3,PORSCHE AUTOMOBIL HOLDING PREF,Consumer Discretionary,Germany,Xetra,False
+PANW,PALO ALTO NETWORKS INC,Information Technology,United States,NASDAQ,False
+PAYX,PAYCHEX INC,Industrials,United States,NASDAQ,False
+PCAR,PACCAR INC,Industrials,United States,NASDAQ,False
+PCG,PG&E CORP,Utilities,United States,New York Stock Exchange Inc.,False
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,Utilities,United States,New York Stock Exchange Inc.,False
+PEP,PEPSICO INC,Consumer Staples,United States,NASDAQ,False
+PFE,PFIZER INC,Health Care,United States,New York Stock Exchange Inc.,False
+PFG,PRINCIPAL FINANCIAL GROUP INC,Financials,United States,NASDAQ,False
+PG,PROCTER & GAMBLE,Consumer Staples,United States,New York Stock Exchange Inc.,False
+PGHN,PARTNERS GROUP HOLDING AG,Financials,Switzerland,SIX Swiss Exchange,False
+PGR,PROGRESSIVE CORP,Financials,United States,New York Stock Exchange Inc.,False
+PH,PARKER-HANNIFIN CORP,Industrials,United States,New York Stock Exchange Inc.,False
+PHIA,KONINKLIJKE PHILIPS NV,Health Care,Netherlands,Euronext Amsterdam,False
+PHM,PULTEGROUP INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+PHOE,PHOENIX FINANCIAL LTD,Financials,Israel,Tel Aviv Stock Exchange,False
+PKG,PACKAGING CORP OF AMERICA,Materials,United States,New York Stock Exchange Inc.,False
+PLD,PROLOGIS REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+PLS,PLS GROUP LTD,Materials,Australia,Asx - All Markets,False
+PLTR,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,United States,NASDAQ,False
+PM,PHILIP MORRIS INTERNATIONAL INC,Consumer Staples,United States,New York Stock Exchange Inc.,False
+PME,PRO MEDICUS LTD,Health Care,Australia,Asx - All Markets,False
+PNC,PNC FINANCIAL SERVICES GROUP INC,Financials,United States,New York Stock Exchange Inc.,False
+PNDORA,PANDORA,Consumer Discretionary,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+PNFP,PINNACLE FINANCIAL PARTNERS INC,Financials,United States,New York Stock Exchange Inc.,False
+PNR,PENTAIR,Industrials,United States,New York Stock Exchange Inc.,False
+PODD,INSULET CORP,Health Care,United States,NASDAQ,False
+POLI,BANK HAPOALIM BM,Financials,Israel,Tel Aviv Stock Exchange,False
+POW,POWER CORPORATION OF CANADA,Financials,Canada,Toronto Stock Exchange,False
+PPG,PPG INDUSTRIES INC,Materials,United States,New York Stock Exchange Inc.,False
+PPL,PPL CORP,Utilities,United States,New York Stock Exchange Inc.,False
+PPL,PEMBINA PIPELINE CORP,Energy,Canada,Toronto Stock Exchange,True
+PRU,PRUDENTIAL FINANCIAL INC,Financials,United States,New York Stock Exchange Inc.,False
+PRU,PRUDENTIAL PLC,Financials,United Kingdom,London Stock Exchange,True
+PRX,PROSUS NV CLASS N,Consumer Discretionary,Netherlands,Euronext Amsterdam,False
+PRY,PRYSMIAN,Industrials,Italy,Borsa Italiana,False
+PSA,PUBLIC STORAGE REIT,Real Estate,United States,New York Stock Exchange Inc.,False
+PSON,PEARSON PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,False
+PST,POSTE ITALIANE,Financials,Italy,Borsa Italiana,False
+PSX,PHILLIPS 66,Energy,United States,New York Stock Exchange Inc.,False
+PTC,PTC INC,Information Technology,United States,NASDAQ,False
+PUB,PUBLICIS GROUPE SA,Communication,France,Nyse Euronext - Euronext Paris,False
+PWR,QUANTA SERVICES INC,Industrials,United States,New York Stock Exchange Inc.,False
+PYPL,PAYPAL HOLDINGS INC,Financials,United States,NASDAQ,False
+Q,QNITY ELECTRONICS INC,Information Technology,United States,New York Stock Exchange Inc.,False
+QAN,QANTAS AIRWAYS LTD,Industrials,Australia,Asx - All Markets,False
+QBE,QBE INSURANCE GROUP LTD,Financials,Australia,Asx - All Markets,False
+QCOM,QUALCOMM INC,Information Technology,United States,NASDAQ,False
+QIA,QIAGEN NV,Health Care,Germany,Deutsche Boerse Xetra,False
+QSR,RESTAURANTS BRANDS INTERNATIONAL I,Consumer Discretionary,Canada,Toronto Stock Exchange,False
+RAA,RATIONAL AG,Industrials,Germany,Xetra,False
+RACE,FERRARI NV,Consumer Discretionary,Italy,Borsa Italiana,False
+RBA,RB GLOBAL INC,Industrials,Canada,Toronto Stock Exchange,False
+RBI,RAIFFEISEN BANK INTERNATIONAL AG,Financials,Austria,Wiener Boerse Ag,False
+RBLX,ROBLOX CORP CLASS A,Communication,United States,New York Stock Exchange Inc.,False
+RCI.B,ROGERS COMMUNICATIONS NON-VOTING I,Communication,Canada,Toronto Stock Exchange,False
+RCL,ROYAL CARIBBEAN GROUP LTD,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+RDDT,REDDIT INC CLASS A,Communication,United States,New York Stock Exchange Inc.,False
+REA,REA GROUP LTD,Communication,Australia,Asx - All Markets,False
+REC,RECORDATI INDUSTRIA CHIMICA E FARM,Health Care,Italy,Borsa Italiana,False
+RED,REDEIA CORPORACION SA,Utilities,Spain,Bolsa De Madrid,False
+REG,REGENCY CENTERS REIT CORP,Real Estate,United States,NASDAQ,False
+REGN,REGENERON PHARMACEUTICALS INC,Health Care,United States,NASDAQ,False
+REL,RELX PLC,Industrials,United Kingdom,London Stock Exchange,False
+REP,REPSOL SA,Energy,Spain,Bolsa De Madrid,False
+RF,REGIONS FINANCIAL CORP,Financials,United States,New York Stock Exchange Inc.,False
+RHM,RHEINMETALL AG,Industrials,Germany,Xetra,False
+RI,PERNOD RICARD SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,False
+RIO,RIO TINTO PLC,Materials,United Kingdom,London Stock Exchange,True
+RIO,RIO TINTO LTD,Materials,Australia,Asx - All Markets,True
+RIVN,RIVIAN AUTOMOTIVE INC CLASS A,Consumer Discretionary,United States,NASDAQ,False
+RJF,RAYMOND JAMES INC,Financials,United States,New York Stock Exchange Inc.,False
+RKLB,ROCKET LAB CORP,Industrials,United States,NASDAQ,False
+RKT,ROCKET COMPANIES INC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+RKT,RECKITT BENCKISER GROUP PLC,Consumer Staples,United Kingdom,London Stock Exchange,True
+RMD,RESMED INC,Health Care,United States,New York Stock Exchange Inc.,False
+RMS,HERMES INTERNATIONAL,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+RNO,RENAULT SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,False
+RO,ROCHE HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,False
+ROCK B,ROCKWOOL CLASS B,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+ROK,ROCKWELL AUTOMATION INC,Industrials,United States,New York Stock Exchange Inc.,False
+ROL,ROLLINS INC,Industrials,United States,New York Stock Exchange Inc.,False
+ROP,ROPER TECHNOLOGIES INC,Information Technology,United States,NASDAQ,False
+ROP,ROCHE PS PAR AG,Health Care,Switzerland,SIX Swiss Exchange,True
+ROST,ROSS STORES INC,Consumer Discretionary,United States,NASDAQ,False
+RPM,RPM INTERNATIONAL INC,Materials,United States,New York Stock Exchange Inc.,False
+RPRX,ROYALTY PHARMA PLC CLASS A,Health Care,United States,NASDAQ,False
+RR.,ROLLS-ROYCE HOLDINGS PLC,Industrials,United Kingdom,London Stock Exchange,False
+RS,RELIANCE STEEL & ALUMINUM,Materials,United States,New York Stock Exchange Inc.,False
+RSG,REPUBLIC SERVICES INC,Industrials,United States,New York Stock Exchange Inc.,False
+RTO,RENTOKIL INITIAL PLC,Industrials,United Kingdom,London Stock Exchange,False
+RTX,RTX CORP,Industrials,United States,New York Stock Exchange Inc.,False
+RVMD,REVOLUTION MEDICINES INC,Health Care,United States,NASDAQ,False
+RWE,RWE AG,Utilities,Germany,Xetra,False
+RXL,REXEL SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+RY,ROYAL BANK OF CANADA,Financials,Canada,Toronto Stock Exchange,False
+RYA,RYANAIR HOLDINGS PLC,Industrials,Ireland,Irish Stock Exchange - All Market,False
+S32,SOUTH32 LTD,Materials,Australia,Asx - All Markets,False
+S63,SINGAPORE TECHNOLOGIES ENGINEERING,Industrials,Singapore,Singapore Exchange,False
+S68,SINGAPORE EXCHANGE LTD,Financials,Singapore,Singapore Exchange,False
+SAAB B,SAAB CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+SAB,BANCO DE SABADELL,Financials,Spain,Bolsa De Madrid,False
+SAF,SAFRAN SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+SAGA B,SAGAX CLASS B,Real Estate,Sweden,Nasdaq Omx Nordic,False
+SALM,SALMAR,Consumer Staples,Norway,Oslo Bors Asa,False
+SAMPO,SAMPO CLASS A,Financials,Finland,Nasdaq Omx Helsinki Ltd.,False
+SAN,BANCO SANTANDER SA,Financials,Spain,Bolsa De Madrid,True
+SAN,SANOFI SA,Health Care,France,Nyse Euronext - Euronext Paris,True
+SAND,SANDVIK,Industrials,Sweden,Nasdaq Omx Nordic,False
+SAP,SAP,Information Technology,Germany,Xetra,True
+SAP,SAPUTO INC,Consumer Staples,Canada,Toronto Stock Exchange,True
+SBAC,SBA COMMUNICATIONS REIT CORP CLASS,Real Estate,United States,NASDAQ,False
+SBRY,SAINSBURY(J) PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+SBUX,STARBUCKS CORP,Consumer Discretionary,United States,NASDAQ,False
+SCA B,SVENSKA CELLULOSA B,Materials,Sweden,Nasdaq Omx Nordic,False
+SCG,SCENTRE GROUP,Real Estate,Australia,Asx - All Markets,False
+SCHN,SCHINDLER HOLDING AG,Industrials,Switzerland,SIX Swiss Exchange,False
+SCHP,SCHINDLER HOLDING PAR AG,Industrials,Switzerland,SIX Swiss Exchange,False
+SCHW,CHARLES SCHWAB CORP,Financials,United States,New York Stock Exchange Inc.,False
+SCMN,SWISSCOM AG,Communication,Switzerland,SIX Swiss Exchange,False
+SDLF,STANDARD LIFE PLC,Financials,United Kingdom,London Stock Exchange,False
+SDR,SCHRODERS PLC,Financials,United Kingdom,London Stock Exchange,False
+SDZ,SANDOZ GROUP AG,Health Care,Switzerland,SIX Swiss Exchange,False
+SE,SEA ADS REPRESENTING LTD CLASS A,Consumer Discretionary,Singapore,New York Stock Exchange Inc.,False
+SEB A,SKANDINAVISKA ENSKILDA BANKEN,Financials,Sweden,Nasdaq Omx Nordic,False
+SECU B,SECURITAS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+SGE,THE SAGE GROUP PLC,Information Technology,United Kingdom,London Stock Exchange,False
+SGH,SGH LTD,Industrials,Australia,Asx - All Markets,False
+SGO,COMPAGNIE DE SAINT GOBAIN SA,Industrials,France,Nyse Euronext - Euronext Paris,False
+SGP,STOCKLAND STAPLED UNITS LTD,Real Estate,Australia,Asx - All Markets,False
+SGRO,SEGRO REIT PLC,Real Estate,United Kingdom,London Stock Exchange,False
+SGSN,SGS SA,Industrials,Switzerland,SIX Swiss Exchange,False
+SHB A,SVENSKA HANDELSBANKEN-A SHS,Financials,Sweden,Nasdaq Omx Nordic,False
+SHEL,SHELL PLC,Energy,United Kingdom,London Stock Exchange,False
+SHL,SIEMENS HEALTHINEERS AG,Health Care,Germany,Xetra,True
+SHL,SONIC HEALTHCARE LTD,Health Care,Australia,Asx - All Markets,True
+SHOP,SHOPIFY SUBORDINATE VOTING INC CLA,Information Technology,Canada,Toronto Stock Exchange,False
+SHW,SHERWIN WILLIAMS,Materials,United States,New York Stock Exchange Inc.,False
+SIE,SIEMENS N AG,Industrials,Germany,Xetra,False
+SIG,SIGMA HEALTHCARE LTD,Health Care,Australia,Asx - All Markets,False
+SIKA,SIKA AG,Materials,Switzerland,SIX Swiss Exchange,False
+SKA B,SKANSKA B,Industrials,Sweden,Nasdaq Omx Nordic,False
+SKF B,SKF B,Industrials,Sweden,Nasdaq Omx Nordic,False
+SLB,SLB NV,Energy,United States,New York Stock Exchange Inc.,False
+SLF,SUN LIFE FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,False
+SLHN,SWISS LIFE HOLDING AG,Financials,Switzerland,SIX Swiss Exchange,False
+SMCI,SUPER MICRO COMPUTER INC,Information Technology,United States,NASDAQ,False
+SMIN,SMITHS GROUP PLC,Industrials,United Kingdom,London Stock Exchange,False
+SN,SHARKNINJA INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+SN.,SMITH AND NEPHEW PLC,Health Care,United Kingdom,London Stock Exchange,False
+SNA,SNAP ON INC,Industrials,United States,New York Stock Exchange Inc.,False
+SNOW,SNOWFLAKE INC,Information Technology,United States,New York Stock Exchange Inc.,False
+SNPS,SYNOPSYS INC,Information Technology,United States,NASDAQ,False
+SO,SOUTHERN,Utilities,United States,New York Stock Exchange Inc.,False
+SOBI,SWEDISH ORPHAN BIOVITRUM,Health Care,Sweden,Nasdaq Omx Nordic,False
+SOF,SOFINA SA,Financials,Belgium,Nyse Euronext - Euronext Brussels,False
+SOFI,SOFI TECHNOLOGIES INC,Financials,United States,NASDAQ,False
+SOL,WASHINGTON H SOUL PATTINSON & COMP,Financials,Australia,Asx - All Markets,False
+SOON,SONOVA HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,False
+SPCX,SPACE EXPLORATION TECHNOLOGIES COR,Communication,United States,NASDAQ,False
+SPG,SIMON PROPERTY GROUP REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+SPGI,S&P GLOBAL INC,Financials,United States,New York Stock Exchange Inc.,False
+SPOT,SPOTIFY TECHNOLOGY SA,Communication,Sweden,New York Stock Exchange Inc.,False
+SPSN,SWISS PRIME SITE AG,Real Estate,Switzerland,SIX Swiss Exchange,False
+SPX,SPIRAX GROUP PLC,Industrials,United Kingdom,London Stock Exchange,False
+SRE,SEMPRA,Utilities,United States,New York Stock Exchange Inc.,False
+SREN,SWISS RE AG,Financials,Switzerland,SIX Swiss Exchange,False
+SRG,SNAM,Utilities,Italy,Borsa Italiana,False
+SRT3,SARTORIUS PREF AG,Health Care,Germany,Xetra,False
+SSE,SSE PLC,Utilities,United Kingdom,London Stock Exchange,False
+SSNC,SS AND C TECHNOLOGIES HOLDINGS INC,Industrials,United States,NASDAQ,False
+STAN,STANDARD CHARTERED PLC,Financials,United Kingdom,London Stock Exchange,False
+STE,STERIS,Health Care,United States,New York Stock Exchange Inc.,False
+STERV,STORA ENSO CLASS R,Materials,Finland,Nasdaq Omx Helsinki Ltd.,False
+STLAM,STELLANTIS NV,Consumer Discretionary,Italy,Borsa Italiana,False
+STLD,STEEL DYNAMICS INC,Materials,United States,NASDAQ,False
+STMN,STRAUMANN HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,False
+STMPA,STMICROELECTRONICS NV,Information Technology,France,Nyse Euronext - Euronext Paris,False
+STN,STANTEC INC,Industrials,Canada,Toronto Stock Exchange,False
+STO,SANTOS LTD,Energy,Australia,Asx - All Markets,False
+STT,STATE STREET CORP,Financials,United States,New York Stock Exchange Inc.,False
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,United States,NASDAQ,False
+STZ,CONSTELLATION BRANDS INC CLASS A,Consumer Staples,United States,New York Stock Exchange Inc.,False
+SU,SCHNEIDER ELECTRIC,Industrials,France,Nyse Euronext - Euronext Paris,True
+SU,SUNCOR ENERGY INC,Energy,Canada,Toronto Stock Exchange,True
+SUI,SUN COMMUNITIES REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+SUN,SUNCORP GROUP LTD,Financials,Australia,Asx - All Markets,False
+SUNB,SUNBELT RENTALS HOLDINGS INC,Industrials,United Kingdom,London Stock Exchange,False
+SVT,SEVERN TRENT PLC,Utilities,United Kingdom,London Stock Exchange,False
+SW,SMURFIT WESTROCK PLC,Materials,United States,New York Stock Exchange Inc.,False
+SW,SODEXO SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,True
+SWED A,SWEDBANK,Financials,Sweden,Nasdaq Omx Nordic,False
+SY1,SYMRISE AG,Materials,Germany,Xetra,False
+SYENS,SYENSQO NV,Materials,Belgium,Nyse Euronext - Euronext Brussels,False
+SYF,SYNCHRONY FINANCIAL,Financials,United States,New York Stock Exchange Inc.,False
+SYK,STRYKER CORP,Health Care,United States,New York Stock Exchange Inc.,False
+SYY,SYSCO CORP,Consumer Staples,United States,New York Stock Exchange Inc.,False
+T,AT&T INC,Communication,United States,New York Stock Exchange Inc.,False
+T,TELUS,Communication,Canada,Toronto Stock Exchange,True
+TCL,TRANSURBAN GROUP STAPLED UNITS,Industrials,Australia,Asx - All Markets,False
+TD,TORONTO DOMINION,Financials,Canada,Toronto Stock Exchange,False
+TDG,TRANSDIGM GROUP INC,Industrials,United States,New York Stock Exchange Inc.,False
+TDY,TELEDYNE TECHNOLOGIES INC,Information Technology,United States,New York Stock Exchange Inc.,False
+TEAM,ATLASSIAN CORP CLASS A,Information Technology,United States,NASDAQ,False
+TECK.B,TECK RESOURCES SUBORDINATE VOTING,Materials,Canada,Toronto Stock Exchange,False
+TEF,TELEFONICA SA,Communication,Spain,Bolsa De Madrid,False
+TEL,TE CONNECTIVITY PLC,Information Technology,United States,New York Stock Exchange Inc.,False
+TEL,TELENOR,Communication,Norway,Oslo Bors Asa,True
+TEL2 B,TELE2 B,Communication,Sweden,Nasdaq Omx Nordic,False
+TELIA,TELIA COMPANY,Communication,Sweden,Nasdaq Omx Nordic,False
+TEN,TENARIS SA,Energy,Italy,Borsa Italiana,False
+TER,TERADYNE INC,Information Technology,United States,NASDAQ,False
+TEVA,TEVA PHARMACEUTICAL INDUSTRIES ADR,Health Care,Israel,New York Stock Exchange Inc.,False
+TFC,TRUIST FINANCIAL CORP,Financials,United States,New York Stock Exchange Inc.,False
+TFII,TFI INTERNATIONAL INC,Industrials,Canada,Toronto Stock Exchange,False
+TGT,TARGET CORP,Consumer Staples,United States,New York Stock Exchange Inc.,False
+TIGO,MILLICOM INTERNATIONAL CELLULAR SA,Communication,Sweden,NASDAQ,False
+TIH,TOROMONT INDUSTRIES LTD,Industrials,Canada,Toronto Stock Exchange,False
+TIT,TELECOM ITALIA,Communication,Italy,Borsa Italiana,False
+TJX,TJX INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+TLC,THE LOTTERY CORPORATION LTD,Consumer Discretionary,Australia,Asx - All Markets,False
+TLS,TELSTRA GROUP LTD,Communication,Australia,Asx - All Markets,False
+TLX,TALANX AG,Financials,Germany,Xetra,False
+TMO,THERMO FISHER SCIENTIFIC INC,Health Care,United States,New York Stock Exchange Inc.,False
+TMUS,T MOBILE US INC,Communication,United States,NASDAQ,False
+TOST,TOAST INC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+TOU,TOURMALINE OIL CORP,Energy,Canada,Toronto Stock Exchange,False
+TPL,TEXAS PACIFIC LAND CORP,Energy,United States,New York Stock Exchange Inc.,False
+TPR,TAPESTRY INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+TREL B,TRELLEBORG B,Industrials,Sweden,Nasdaq Omx Nordic,False
+TRGP,TARGA RESOURCES CORP,Energy,United States,New York Stock Exchange Inc.,False
+TRI,THOMSON REUTERS CORP,Industrials,Canada,Toronto Stock Exchange,False
+TRMB,TRIMBLE INC,Information Technology,United States,NASDAQ,False
+TRN,TERNA RETE ELETTRICA NAZIONALE,Utilities,Italy,Borsa Italiana,False
+TROW,T ROWE PRICE GROUP INC,Financials,United States,NASDAQ,False
+TRP,TC ENERGY CORP,Energy,Canada,Toronto Stock Exchange,False
+TRU,TRANSUNION,Industrials,United States,New York Stock Exchange Inc.,False
+TRV,TRAVELERS COMPANIES INC,Financials,United States,New York Stock Exchange Inc.,False
+TRYG,TRYG,Financials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,United States,NASDAQ,False
+TSCO,TESCO PLC,Consumer Staples,United Kingdom,London Stock Exchange,True
+TSEM,TOWER SEMICONDUCTOR LTD,Information Technology,Israel,Tel Aviv Stock Exchange,False
+TSLA,TESLA INC,Consumer Discretionary,United States,NASDAQ,False
+TSN,TYSON FOODS INC CLASS A,Consumer Staples,United States,New York Stock Exchange Inc.,False
+TT,TRANE TECHNOLOGIES PLC,Industrials,United States,New York Stock Exchange Inc.,False
+TTE,TOTALENERGIES,Energy,France,Nyse Euronext - Euronext Paris,False
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,Communication,United States,NASDAQ,False
+TUB,FINANCIERE DE TUBIZE SA,Health Care,Belgium,Nyse Euronext - Euronext Brussels,False
+TW,TRADEWEB MARKETS INC CLASS A,Financials,United States,NASDAQ,False
+TWLO,TWILIO INC CLASS A,Information Technology,United States,New York Stock Exchange Inc.,False
+TXN,TEXAS INSTRUMENT INC,Information Technology,United States,NASDAQ,False
+TXT,TEXTRON INC,Industrials,United States,New York Stock Exchange Inc.,False
+TYL,TYLER TECHNOLOGIES INC,Information Technology,United States,New York Stock Exchange Inc.,False
+U11,UNITED OVERSEAS BANK LTD,Financials,Singapore,Singapore Exchange,False
+U96,SEMBCORP INDUSTRIES LTD,Utilities,Singapore,Singapore Exchange,False
+UAL,UNITED AIRLINES HOLDINGS INC,Industrials,United States,NASDAQ,False
+UBER,UBER TECHNOLOGIES INC,Industrials,United States,New York Stock Exchange Inc.,False
+UBSG,UBS GROUP AG,Financials,Switzerland,SIX Swiss Exchange,False
+UCB,UCB SA,Health Care,Belgium,Nyse Euronext - Euronext Brussels,False
+UCG,UNICREDIT,Financials,Italy,Borsa Italiana,False
+UHR,THE SWATCH GROUP AG,Consumer Discretionary,Switzerland,SIX Swiss Exchange,False
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,United States,NASDAQ,False
+ULVR,UNILEVER PLC,Consumer Staples,United Kingdom,London Stock Exchange,False
+UMG,UNIVERSAL MUSIC GROUP NV,Communication,Netherlands,Euronext Amsterdam,False
+UNH,UNITEDHEALTH GROUP INC,Health Care,United States,New York Stock Exchange Inc.,False
+UNI,UNIPOL ASSICURAZIONI SPA,Financials,Italy,Borsa Italiana,False
+UNP,UNION PACIFIC CORP,Industrials,United States,New York Stock Exchange Inc.,False
+UPM,UPM-KYMMENE,Materials,Finland,Nasdaq Omx Helsinki Ltd.,False
+UPS,UNITED PARCEL SERVICE INC CLASS B,Industrials,United States,New York Stock Exchange Inc.,False
+URI,UNITED RENTALS INC,Industrials,United States,New York Stock Exchange Inc.,False
+URW,UNIBAIL RODAMCO WE STAPLED UNITS,Real Estate,France,Nyse Euronext - Euronext Paris,False
+USB,US BANCORP,Financials,United States,New York Stock Exchange Inc.,False
+UTHR,UNITED THERAPEUTICS CORP,Health Care,United States,NASDAQ,False
+UU.,UNITED UTILITIES GROUP PLC,Utilities,United Kingdom,London Stock Exchange,False
+V,VISA INC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+VACN,VAT GROUP AG,Industrials,Switzerland,SIX Swiss Exchange,False
+VAR,VAR ENERGI,Energy,Norway,Oslo Bors Asa,False
+VCX,VICINITY CENTRES,Real Estate,Australia,Asx - All Markets,False
+VEEV,VEEVA SYSTEMS INC CLASS A,Health Care,United States,New York Stock Exchange Inc.,False
+VER,VERBUND AG,Utilities,Austria,Wiener Boerse Ag,False
+VICI,VICI PPTYS INC,Real Estate,United States,New York Stock Exchange Inc.,False
+VIE,VEOLIA ENVIRON. SA,Utilities,France,Nyse Euronext - Euronext Paris,False
+VLO,VALERO ENERGY CORP,Energy,United States,New York Stock Exchange Inc.,False
+VLTO,VERALTO CORP,Industrials,United States,New York Stock Exchange Inc.,False
+VMC,VULCAN MATERIALS,Materials,United States,New York Stock Exchange Inc.,False
+VNA,VONOVIA SE,Real Estate,Germany,Xetra,False
+VOD,VODAFONE GROUP PLC,Communication,United Kingdom,London Stock Exchange,False
+VOLV B,VOLVO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,False
+VOW3,VOLKSWAGEN NON-VOTING PREF AG,Consumer Discretionary,Germany,Xetra,False
+VRSK,VERISK ANALYTICS INC,Industrials,United States,NASDAQ,False
+VRSN,VERISIGN INC,Information Technology,United States,NASDAQ,False
+VRT,VERTIV HOLDINGS CLASS A,Industrials,United States,New York Stock Exchange Inc.,False
+VRTX,VERTEX PHARMACEUTICALS INC,Health Care,United States,NASDAQ,False
+VST,VISTRA CORP,Utilities,United States,New York Stock Exchange Inc.,False
+VTR,VENTAS REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+VWS,VESTAS WIND SYSTEMS,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,False
+VZ,VERIZON COMMUNICATIONS INC,Communication,United States,New York Stock Exchange Inc.,False
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,Industrials,United States,New York Stock Exchange Inc.,False
+WAT,WATERS CORP,Health Care,United States,New York Stock Exchange Inc.,False
+WBC,WESTPAC BANKING CORPORATION,Financials,Australia,Asx - All Markets,False
+WBD,WARNER BROS. DISCOVERY INC SERIES,Communication,United States,NASDAQ,False
+WCN,WASTE CONNECTIONS INC,Industrials,United States,New York Stock Exchange Inc.,False
+WCP,WHITECAP RESOURCES INC,Energy,Canada,Toronto Stock Exchange,False
+WDAY,WORKDAY INC CLASS A,Information Technology,United States,NASDAQ,False
+WDC,WESTERN DIGITAL CORP,Information Technology,United States,NASDAQ,False
+WDS,WOODSIDE ENERGY GROUP LTD,Energy,Australia,Asx - All Markets,False
+WEC,WEC ENERGY GROUP INC,Utilities,United States,New York Stock Exchange Inc.,False
+WELL,WELLTOWER INC,Real Estate,United States,New York Stock Exchange Inc.,False
+WES,WESFARMERS LTD,Consumer Discretionary,Australia,Asx - All Markets,False
+WFC,WELLS FARGO,Financials,United States,New York Stock Exchange Inc.,False
+WISE,WISE PLC CLASS A,Financials,United Kingdom,London Stock Exchange,False
+WKL,WOLTERS KLUWER NV,Industrials,Netherlands,Euronext Amsterdam,False
+WM,WASTE MANAGEMENT INC,Industrials,United States,New York Stock Exchange Inc.,False
+WMB,WILLIAMS INC,Energy,United States,New York Stock Exchange Inc.,False
+WMT,WALMART INC,Consumer Staples,United States,NASDAQ,False
+WN,GEORGE WESTON LTD,Consumer Staples,Canada,Toronto Stock Exchange,False
+WOW,WOOLWORTHS GROUP LTD,Consumer Staples,Australia,Asx - All Markets,False
+WPC,W. P. CAREY REIT INC,Real Estate,United States,New York Stock Exchange Inc.,False
+WPM,WHEATON PRECIOUS METALS CORP,Materials,Canada,Toronto Stock Exchange,False
+WRB,WR BERKLEY CORP,Financials,United States,New York Stock Exchange Inc.,False
+WRT1V,WARTSILA,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,False
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+WSO,WATSCO INC,Industrials,United States,New York Stock Exchange Inc.,False
+WSP,WSP GLOBAL INC,Industrials,Canada,Toronto Stock Exchange,False
+WST,WEST PHARMACEUTICAL SERVICES INC,Health Care,United States,New York Stock Exchange Inc.,False
+WTC,WISETECH GLOBAL LTD,Information Technology,Australia,Asx - All Markets,False
+WTW,WILLIS TOWERS WATSON PLC,Financials,United States,NASDAQ,False
+WY,WEYERHAEUSER REIT,Real Estate,United States,New York Stock Exchange Inc.,False
+X,TMX GROUP LTD,Financials,Canada,Toronto Stock Exchange,False
+XEL,XCEL ENERGY INC,Utilities,United States,NASDAQ,False
+XOM,EXXONMOBIL HOLDINGS CORP,Energy,United States,New York Stock Exchange Inc.,False
+XPO,XPO INC,Industrials,United States,New York Stock Exchange Inc.,False
+XRO,XERO LTD,Information Technology,Australia,Asx - All Markets,False
+XYL,XYLEM INC,Industrials,United States,New York Stock Exchange Inc.,False
+XYZ,BLOCK INC CLASS A,Financials,United States,New York Stock Exchange Inc.,False
+YAR,YARA INTERNATIONAL,Materials,Norway,Oslo Bors Asa,False
+YUM,YUM BRANDS INC,Consumer Discretionary,United States,New York Stock Exchange Inc.,False
+Z74,SINGAPORE TELECOMMUNICATIONS LTD,Communication,Singapore,Singapore Exchange,False
+ZAL,ZALANDO,Consumer Discretionary,Germany,Xetra,False
+ZBH,ZIMMER BIOMET HOLDINGS INC,Health Care,United States,New York Stock Exchange Inc.,False
+ZM,ZOOM COMMUNICATIONS INC CLASS A,Information Technology,United States,NASDAQ,False
+ZS,ZSCALER INC,Information Technology,United States,NASDAQ,False
+ZTS,ZOETIS INC CLASS A,Health Care,United States,New York Stock Exchange Inc.,False
+ZURN,ZURICH INSURANCE GROUP AG,Financials,Switzerland,SIX Swiss Exchange,False
